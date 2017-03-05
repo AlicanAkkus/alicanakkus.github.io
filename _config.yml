@@ -2,10 +2,10 @@
 
 title: Çaysever - JavaMan
 locale: tr_TR
-description: Java 
+description: Java
 logo: alicanakkus-site-logo.png
 search: true
-url: http://localhost:4000
+url: https://alicanakkus.github.com
 
 # Jekyll configuration
 
@@ -27,7 +27,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..2
   enable_coderay: false
-  
+
 comments: true
 search_omit: true
 share: true
