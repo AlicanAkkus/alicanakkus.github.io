@@ -5,7 +5,7 @@ locale: tr_TR
 description: Java
 logo: alicanakkus-site-logo.png
 search: true
-url: https://alicanakkus.github.com
+url: alicanakkus.github.com
 
 # Jekyll configuration
 
