@@ -4,21 +4,23 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#20Marc2017">20 Mart 2017 - 01:15</a>
+> <p id="20Marc2017">İçine çekildiğim dünya, dışımda bıraktığım dünyadan öyle güzel, öyle gerçek ki.</p>
+> > Nazan Bekiroğlu
+
 <a href="#7Now2016">7 Kasım 2016 - 22:05</a>
-<p id="7Now2016">Neşeli müzikler besteleyemiyorum, ne yapsam insan olmanın hüznü çıkıyor ortaya, biz sizi eğlendiremeyiz, sadece eyleriz.</p>
-<p>~ Erkan Oğur</p>
+> <p id="7Now2016">Neşeli müzikler besteleyemiyorum, ne yapsam insan olmanın hüznü çıkıyor ortaya, biz sizi eğlendiremeyiz, sadece eyleriz.</p>
+> <p>~ Erkan Oğur</p>
 <iframe width="550" height="385" id="7Now2016" src="https://www.youtube.com/embed/gAElM_w0vls"></iframe>
 
-
-
 <a href="#18Oct2016">18 Ekim 2016 - 16:30</a>
-<p id="18Oct2016">Gök çoğalınca,
+> <p id="18Oct2016">Gök çoğalınca,
 Göğe açılan göz kapanınca,
 Beni duyacak anlamayacaksın.</p>
 ~ Cahit Zarifoğlu
 
 <a href="#29Sem2016">29 Eylül 2016 - 08:30</a>
-<p id="29Sem2016">bu çılgın eğlentinin karşıtı bir yürek,
+> <p id="29Sem2016">bu çılgın eğlentinin karşıtı bir yürek,
 hangi kuşun sesinde dinlensin.</p>
 ~ Nilgün Marmara
 
@@ -28,7 +30,7 @@ hangi kuşun sesinde dinlensin.</p>
 ~ Mehmet Güreli - Kimse Bilmez
 
 <a href="#6Sem2016">6 Eylül 2016 - 00:00</a>
-<p id="6Sem2016">Annem tanısa seni kesin çok severdi.
+> <p id="6Sem2016">Annem tanısa seni kesin çok severdi.
 Bana kalırsa seni bütün dünya çok sever,
 Ben de seni çok severim ama şu an konu bu değil.</p>
 ~ Ali Lidar
@@ -39,7 +41,7 @@ Son Feci Bisiklet - Bu Kız
 
 <iframe width="550" height="385" src="https://www.youtube.com/embed/1_0Ec694FNM"></iframe>
 
-Bu kız beni sever
+<p id="1Sem2016">Bu kız beni sever
 
 Bu kız beni öldürür
 
@@ -107,16 +109,17 @@ Bu kız
 Bu kız
 
 ~ Söz-Müzik: Arda Kemirgent
+</p>
 
 <a href="#13Agu2016">13 Ağustos 2016 - 13:30</a>
 
-Ama şunu biliyorum ki o birbirine benzeyen günlerin içine sızan her şeyde biraz sen varsın.
+<p id="13Agu2016">Ama şunu biliyorum ki o birbirine benzeyen günlerin içine sızan her şeyde biraz sen varsın.</p>
 
 ~ Ali Lidar
 
 
 <a href="#10Jul2016">10 Temmuz 2016 - 22:00</a>
-<p id="10Jul2016">assuman: beni artık sevmiyorsun, öyle mi?</p>
+> <p id="10Jul2016">assuman: beni artık sevmiyorsun, öyle mi?</p>
 mükremin: ya seni seviyorum da, seni sevmeyi eskisi kadar sevemiyorum..
 hani eskiden seni sevmenin, birbirimizi sevmenin, yeşil gevrek bir tadı vardı. seni güldürmenin lezzeti damağıma yerleşir, orada mutlu mesut yaşardı..  
 yani bişey olduğu vakit, ilk bunu koşayım gideyim, assuman'a söyleyeyim tarzında bir haberci telaşı olurdu.
@@ -129,32 +132,32 @@ mükremin: bilmiyorum assuman, bilmiyorum.. kalbim bir kuyunun dibindeki suyun i
 <div>
 
 <a href="#10Jun2016">10 Haziran 2016 - 01:00</a>
-<p id="10Jun2016">Ölsem ayıptır, sussam tehlikeli, çok sevmeli öyleyse, çok söylemeli.</p>
+> <p id="10Jun2016">Ölsem ayıptır, sussam tehlikeli, çok sevmeli öyleyse, çok söylemeli.</p>
 <iframe width="550" height="385" src="https://www.youtube.com/embed/r-LCLmHhjwU"></iframe>
 
 </div>
 <a href="#02Jun2016">2 Haziran 2016 - 22:00</a>
-<p id="02Jun2016">Halbuki ne kadar saf, temiz bir yüzü var.</p>
+> <p id="02Jun2016">Halbuki ne kadar saf, temiz bir yüzü var.</p>
 ~ Sabahattin Ali
 <div>
 
 <a href="#30May2016">31 Mayıs 2016 - 23:45</a>
-<p id="30May2016">Gözlerine baktım ise ki bakmışımdır.
+> <p id="30May2016">Gözlerine baktım ise ki bakmışımdır.
 Onlar bir denizi sezme derinliğindedir.</p>
 <iframe width="550" height="385" src="https://www.youtube.com/embed/7odXfJnqT9U"></iframe>
 
 </div>
 <a href="#16May2016">16 Mayıs 2016 - 21:15</a>
-<p id="16May2016">Yaşamın anlamı gece duyumsanır ve sorgulanır. Kimse bunu öğle yemeği sırasında tartışmaz. Yaşam gecenin konusudur.</p>
+> <p id="16May2016">Yaşamın anlamı gece duyumsanır ve sorgulanır. Kimse bunu öğle yemeği sırasında tartışmaz. Yaşam gecenin konusudur.</p>
 ~ Gündüz Vassaf
 
 <a href="#11May2016">11 Mayıs 2016 - 00:05</a>
-<p id="11May2016">Vaktinde ediIememiş sevgi sözIeri, nefret zırhını kuşanır dönerken geri.</p>
+> <p id="11May2016">Vaktinde ediIememiş sevgi sözIeri, nefret zırhını kuşanır dönerken geri.</p>
 <iframe width="550" height="385" src="https://www.youtube.com/embed/jySSUCUbXLs">
 </iframe>
 
 <a href="#7May2016">7 Mayıs 2016 - 00:35</a>
-<p id="7May2016">Hiç ayrılmayalım demek vardı fakat bu pek geniş manalı ve müphemdi. Nasıl ayrılmayalım? Bir yuva kuralım deseler bu da pek bayağı kaçacaktı.</p>
+> <p id="7May2016">Hiç ayrılmayalım demek vardı fakat bu pek geniş manalı ve müphemdi. Nasıl ayrılmayalım? Bir yuva kuralım deseler bu da pek bayağı kaçacaktı.</p>
 ~ Sabahattin Ali
 
 <a href="#3May2016">3 Mayıs 2016 - 17:05</a>
@@ -200,19 +203,19 @@ Rüzgârların en ferahlatıcısı senden esiyor.
 
 <a href="#08Nis2016">8 Nisan 2016 - 00:25</a>
 
-<p id="08Nis2016">Önce sesin gelir aklıma, çaresiz kaldıkça hep seni düşünürüm.</p>
+> <p id="08Nis2016">Önce sesin gelir aklıma, çaresiz kaldıkça hep seni düşünürüm.</p>
 ~ Turgut Uyar
 
 <a href="#03Nis2016">3 Nisan 2016 - 20:55</a>
-<p id="03Nis2016">Yatağına nasıl uzandığını, nasıl ağır ağır nefes aldığını tasavvur ediyor ve bunu görmekten daha büyük saadet olamayacağını düşünüyordum.</p>
+> <p id="03Nis2016">Yatağına nasıl uzandığını, nasıl ağır ağır nefes aldığını tasavvur ediyor ve bunu görmekten daha büyük saadet olamayacağını düşünüyordum.</p>
 ~ Sabahattin Ali
 
 <a href="#02Nis2016">2 Nisan 2016 - 12:30</a>
-<p id="02Nis2016">Onunla beni, bizim iradelerimizin üstünde bir bağın bağladığına eminim.</p>
+> <p id="02Nis2016">Onunla beni, bizim iradelerimizin üstünde bir bağın bağladığına eminim.</p>
 ~ Sabahattin Ali
 
 <a href="#25Mart2016">25 Mart 2016 - 23:20</a>
-<p id="25Mart2016">Günah ki en güzel kadındır, sizler güzele kanan,
+> <p id="25Mart2016">Günah ki en güzel kadındır, sizler güzele kanan,
 Tabiatın şeytan olacaksa yılan doğursun anan!</p>
 ~ kafkef
 
@@ -227,7 +230,7 @@ I. Ben de tahmin etmem. Ama olsun, arkadaşlıkta fedakarlık lazımdır.
 ~ Sabahattin Ali / Kürk Mantolu Madonna
 
 <a href="#16Mart2016">16 Mart 2016 - 23:30</a>
-<p id="16Mart2016">Bir deniz gibisin resimlerde.
+> <p id="16Mart2016">Bir deniz gibisin resimlerde.
 
 ~ Ahmet Aslan</p>
 <a href="#15Mart22016">15 Mart 2016 - 21:33</a>
