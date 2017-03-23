@@ -9,7 +9,7 @@ image: images/apache-guys/apache-mina/mam.jpg
 Merhaba arkadaslar, bir önceki yazımda Mina ile basit bir server socket'in nasıl oluşturulabileceğini, NIO tabanlı olduğunu ve mina hakkında birkaç detay vermiştik. Bugün ise Mina ile bir socket client oluşturmaya çalışacağız.
 
 ### Apache Mina Client
-Everything going to be ok if server socket is alive. ~ Alican Akkus
+Everything going to be ok if server socket is alive. > Alican Akkus
 
 Bir önceki yazımızda server socketi olusturup herhangi bir port'a bind etmiş ve daha sonra telnet ile ip ve port adresini yazarak aslında bir client gibi davranmıştık. Bkz: [telnet](https://en.wikipedia.org/wiki/Telnet) , bugün ise client kodunu yazacagız, mesaj göndereceğiz ve açtığımız session'un durumunu handle edeceğiz.
 
@@ -227,4 +227,4 @@ Yazımı burada sonlandırmak istiyorum arkadaslar.
 
 Uygulamanın son haline [buradan](https://www.dropbox.com/s/0bsefaa0napsoxa/MinaTutorial.zip?dl=0) erişebilirsiniz.
 
-~ Alican Akkus.
+> Alican Akkus.

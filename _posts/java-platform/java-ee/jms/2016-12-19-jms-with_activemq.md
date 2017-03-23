@@ -814,4 +814,4 @@ Client ACK şeklinde alıp mesajı tamamen kendi sisteminize aldıktan sonra JMS
 
 Bir sonraki yazıda görüşmek dileğiyle.
 
-~ A.Akkus
+> A.Akkus

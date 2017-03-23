@@ -213,4 +213,4 @@ Yukarıda genel itibari ile giriş yaptık. Struts'ın actionları nasıl handle
 Örnek uygulamaya [şurada](https://github.com/AlicanAkkus/Struts2Starter) erişebilirsiniz.
 
 Mutlu ve esen kalın.
-~ A.Akkus
+> A.Akkus

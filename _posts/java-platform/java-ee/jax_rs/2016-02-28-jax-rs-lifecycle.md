@@ -401,4 +401,4 @@ Düşük kullanıcı sayısı ve network trafiğinde request scope ihtiyacınız
 
 Yazımızın sonuna geldik, mutlu kalın.
 
-~ A.Akkus
+> A.Akkus

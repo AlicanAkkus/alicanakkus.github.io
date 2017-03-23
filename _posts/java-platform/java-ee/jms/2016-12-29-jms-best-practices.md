@@ -102,4 +102,4 @@ Yaptığımız JMS örnekleri Java SE üzerindeydiler, bir sonraki yazımızda J
 
 Multlu ve şen kalın.
 
-~ A.Akkus
+> A.Akkus

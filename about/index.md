@@ -26,7 +26,7 @@ modified: 2014-08-08T19:44:38.564948-04:00
         <p>İletişim için 536-762-06-00 numaramdan bana ulaşabilirsiniz yada mail gönderebilirsiniz.</p>
 
         <p>İyi günler dilerim.</p>
-        ~ Alican Akkus
+        > Alican Akkus
       </p>
     </div>
   </div>

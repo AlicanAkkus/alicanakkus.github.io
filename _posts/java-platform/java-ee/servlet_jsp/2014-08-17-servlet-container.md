@@ -80,4 +80,4 @@ Evet tomcatimiz kurulu  ve varsayılan Http portu 8080 olarak , hostname olarak
 
  ^ Bugünlük bu kadar arkadaslar , bir sonraki yazımızda ilk Servlet'imizi yazmış olucaz ve bazı doXXX methodlarına bakmış olucaz. Mutlu kalın , kod'la kalın ve bol bol Çay için :)
 
-~ Alican Akkuş
+> Alican Akkuş

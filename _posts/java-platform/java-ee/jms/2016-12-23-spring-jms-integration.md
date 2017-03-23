@@ -313,4 +313,4 @@ Bir sonraki yazıda JMS best practice ve JMS improve performance konularına de�
 
 Multlu ve şen kalın.
 
-~ A.Akkus
+> A.Akkus

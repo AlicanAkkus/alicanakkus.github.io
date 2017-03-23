@@ -204,4 +204,4 @@ Bir web app oldugu için servlet contaıner olarak Tomcat kullandım. Authantica
 
 Yazıyı burada sonlandırıyoruz arkadaslar, mutlu ve esen kalın. Hayırlı Ramazanlar.
 
-~ A.Akkus
+> A.Akkus

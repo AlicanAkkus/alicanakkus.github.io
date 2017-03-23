@@ -195,4 +195,4 @@ Giriş yazımız için bir server socket örneği yaptık arkadaşlar. Bir sonra
 
 Bir sonraki yazıda görüşmek dileğiyle, mutlu kalın, kod'la kalın ve bol bol Çay için :)
 
-~ Alican Akkus
+> Alican Akkus

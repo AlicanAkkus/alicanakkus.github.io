@@ -225,4 +225,4 @@ Mutlu ve esen kalınız.
 
 Not: Yazıyı bitirdiğimde saat 00:15 olmuştu. Bayramınız kutlu olsun :)
 
-~ A.Akkus
+> A.Akkus

@@ -86,4 +86,4 @@ Giriş yazısını burada sonlandırıyoruz arkadaslar, bir sonraki yazıda AOP 
 
 Sağlıklı ve esen kalın.
 
-~ A.Akkus
+> A.Akkus

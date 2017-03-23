@@ -93,4 +93,4 @@ Blogdaki örneklerde pure JMS ile ActiveMQ ile örnekler yapacağız. Hali hazı
 
 Bir sonraki yazıda görüşmek dileğiyle.
 
-~ A.Akkus
+> A.Akkus

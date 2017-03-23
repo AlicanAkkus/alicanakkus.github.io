@@ -156,4 +156,4 @@ Giriş yazımızı burada sonlandırılıyoruz arkadaslar. Bir sonraki yazıda D
 
 Mutlu ve esen kalın.
 
-~ A.Akkus
+> A.Akkus

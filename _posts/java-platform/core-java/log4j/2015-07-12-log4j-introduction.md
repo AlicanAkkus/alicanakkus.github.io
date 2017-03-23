@@ -76,4 +76,4 @@ Yazımı burada sonlandırmak istiyorum arkadaslar. Bir sonraki yazıda görüş
 
 Mutlu kalın, kod'la kalın ve bol bol Çay için :)
 
-~ Alican Akkus.
+> Alican Akkus.

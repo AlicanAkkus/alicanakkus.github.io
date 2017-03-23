@@ -229,4 +229,4 @@ Yazıyı burada sonlandırıyorum arkadaslar.
 
 Mutlu kalın, kod'la kalın ve bol bol Çay için :)
 
-~ Alican Akkus.
+> Alican Akkus.

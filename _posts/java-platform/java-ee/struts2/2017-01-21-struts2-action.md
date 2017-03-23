@@ -513,4 +513,4 @@ Yapılan matematiksel işleme göre ilgili sayfayı kendisi bulacaktır;
 
 Mutlu ve esen kalın.
 
-~ A.Akkus
+> A.Akkus

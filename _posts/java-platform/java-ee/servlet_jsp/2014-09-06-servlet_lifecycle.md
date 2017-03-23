@@ -60,4 +60,4 @@ A istegi threadA , B istegi threadB ile aynı servlet üzerinde çalışır.
 
 * Mutlu kalın , kod'la kalın ve bol bol Çay için :)
 
-~ Alican Akkus
+> Alican Akkus
