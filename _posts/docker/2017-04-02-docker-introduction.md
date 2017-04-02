@@ -17,7 +17,11 @@ VMware, Hyper-V gibi sanallaştırma mimarilerinden farklı olarak işletim sist
 
 Ayrıca Hypervisor sanallaştırma da farklı operating systemler olduğundan dolayı host ile birlikte toplam 2 tane işletim sisteminin bakımı, kontrolü ve yönetilmesi gerekmektedir. Docker ise LXC ile birlikte host'un işletim sistemi üzerinde koştuğu için bu yönden de bir avantajı vardır.
 
-Docker ile birlikte development ortamlarının kurulumu olsun, uygulamaların taşınabilirliği olsun birçok konuda artık elimiz rahatlayacaktır. Örneğin müşterinize docker image hazırlayıp sadece run etmesini söyleyebilirsiniz. Yada şirkette yeni bir arkadaş işe girdi, kendisine çalışma ortamı hazırlanacak, docker ile 15 dk da artık çalışabilir duruma gelebilir :)
+Docker ile birlikte development ortamlarının kurulumu olsun, uygulamaların taşınabilirliği olsun birçok konuda artık elimiz rahatlayacaktır. Örneğin müşterinize docker image hazırlayıp sadece run etmesini söyleyebilirsiniz. Yada şirkette yeni bir arkadaş işe girdi, kendisine çalışma ortamı hazırlanacak, docker ile 15 dk da artık çalışabilir duruma gelebilir :) Bu sayede bir geliştirme ortamın da bir standartlaşma oluşuacaktır.
+
+Docker'ın bir diğer faydası ise "benim makinam da çalışıyordu ya" problemini çözmesidir.
+
+Mikroservis konusu ise başlı başına bir konu. Docker Mikroservis mimarisi için biçilmez bir kaftan. Artan ihtiyaçlar karşısında yeni bir node ayağa kaldırmak oldukçça kolaylaşacaktır.
 
 Docker kurulumu için [şuradan](https://docs.docker.com/engine/installation/) yardım alabilirsiniz. Docker'ın iki versionu var görünmekte. Docker EE, enterprise işleri için kullanılan ücretli bir sürümdür. Docker CE, community edition olarak sulunuyor. Bunu kurabilirsiniz. Docker kurduktan sonra docker versionu şöyle görebilirsiniz;
 
