@@ -9,7 +9,7 @@ Merhabalar, Docker teknolojisine giriş yapmış olacağız. Docker'dan ve çöz
 
 ### Docker
 
-Docker, temelde bir sanallaştırma teknolojisi olarak tarif edilebilir. Temelinde ise Linux Containers vardır. Linux Container(LXC) üzerine kurulmuş birbirinden izole olarak çalışabilen Container'lardan oluşan bir yapıdır.
+Docker, temelde bir sanallaştırma teknolojisi olarak tarif edilebilir. Temelinde ise Linux Containers vardır. Linux Container(LXC) üzerine kurulmuş birbirinden izole olarak çalışabilen Container'lardan oluşan bir yapıdır. Uygulama/process sanallaştırma işlemini yapar. Yani uygulama bağımlılıklarını minimize eder ve bir iki işlem ile uygulamaların/process'lerin koşturulmasını sağlar. Kısacası Docker ile bir uygulamanın dağıtılması, paylaşılması kolaylaştırılmaktadır.
 
 > LXC, 2008 yılında Linux Kernel'e eklenen bir yapıdır.
 
@@ -30,9 +30,10 @@ Docker kurulumu için [şuradan](https://docs.docker.com/engine/installation/) y
 Docker konusunda bazı keywordler mevcut bunlara da detaylıca bakalım;
 * Docker Engine : Docker daemon olarak da karşımıza çıkabilir. Sanallaştırmanın yapıldığı kısımdır. VMware, Hyper-V yapılarına karşılık gelmektedir.
 * Docker CLI : Docker engine üzerinde komutların koşturulmasını sağlayan istemcidir.
-* Images : Bir imaj dosyasıdır. Bir Docker imajından ne yaptığını kolayca görebiliriz.
+* DockerFile : Bir docker uygulaması oluşturabilmek için gerekli dosyadır. Bu dosya içerisinde uygulamanın neler yaptığını görebiliriz.
+* Images : Bir imaj dosyasıdır. Bir Docker imajından ne yaptığını kolayca görebiliriz. DockerFile'ın build edilmesi ile oluşur.
 * Container : Bir image'in çalışan örneğidir. Image'in çalışan versionu container'dır diyebiliriz.
-* Docker Registry : Docker registry sayesinde farklı amaçlar için üretilmiş image'ler incelenebilir, kullanılabilirdir. Maven repository'e benzetilebilir. Buraya kendi oluşturduğumuz image'leri de gönderebiliriz.
+* Docker Registry/Hub : Docker registry/hub sayesinde farklı amaçlar için üretilmiş image'ler incelenebilir, kullanılabilirdir. Maven repository'e benzetilebilir. Buraya kendi oluşturduğumuz image'leri de gönderebiliriz.
 
 
 #### Docker CLI
