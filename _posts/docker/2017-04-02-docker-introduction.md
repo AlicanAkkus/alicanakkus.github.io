@@ -13,6 +13,8 @@ Docker, temelde bir sanallaştırma teknolojisi olarak tarif edilebilir. Temelin
 
 > LXC, 2008 yılında Linux Kernel'e eklenen bir yapıdır.
 
+Docker'ın emekleme dönemeinde var olan LXC daha sonra yerini **runC** bıraktı. Docker tarafından alınan önemli bir karardı. Çünkü kendi topluluklarını yaratmalarını sağladı hemde Linux'dan bağımsız olarak container kavramında genişletmeler/geliştirmeler yapabildiler. Daha sonra [containerd](https://containerd.io) ile bir standart getirdiler. Bununla birlikte LXC de yerini **runC**'ye bırakmış oldu.
+
 VMware, Hyper-V gibi sanallaştırma mimarilerinden farklı olarak işletim sistemi seviyesinde bir sanallaştırma yaptığından dolayı fiziksel sunucularda yapılan sanallaştırmalara oranla daha az kaynak ayırarak kaynakları daha efektik kullanmayı sağlar.
 
 Ayrıca Hypervisor sanallaştırma da farklı operating systemler olduğundan dolayı host ile birlikte toplam 2 tane işletim sisteminin bakımı, kontrolü ve yönetilmesi gerekmektedir. Docker ise LXC ile birlikte host'un işletim sistemi üzerinde koştuğu için bu yönden de bir avantajı vardır.
@@ -29,12 +31,20 @@ Docker kurulumu için [şuradan](https://docs.docker.com/engine/installation/) y
 
 Docker konusunda bazı keywordler mevcut bunlara da detaylıca bakalım;
 * Docker Engine : Docker daemon olarak da karşımıza çıkabilir. Sanallaştırmanın yapıldığı kısımdır. VMware, Hyper-V yapılarına karşılık gelmektedir.
+* runC : Docker'ın LXC'den sonra geçiş yaptığı yeni sanallaştırma aracıdır.
 * Docker CLI : Docker engine üzerinde komutların koşturulmasını sağlayan istemcidir.
 * DockerFile : Bir docker uygulaması oluşturabilmek için gerekli dosyadır. Bu dosya içerisinde uygulamanın neler yaptığını görebiliriz.
-* Images : Bir imaj dosyasıdır. Bir Docker imajından ne yaptığını kolayca görebiliriz. DockerFile'ın build edilmesi ile oluşur.
+* Images : Bir imaj dosyasıdır. DockerFile'ın build edilmesi ile oluşur.
 * Container : Bir image'in çalışan örneğidir. Image'in çalışan versionu container'dır diyebiliriz.
 * Docker Registry/Hub : Docker registry/hub sayesinde farklı amaçlar için üretilmiş image'ler incelenebilir, kullanılabilirdir. Maven repository'e benzetilebilir. Buraya kendi oluşturduğumuz image'leri de gönderebiliriz.
 
+#### runC
+
+Docker Engine altında ki **containerd** aracı docker engine ile container'lar arasında ki iletişimden sorumludur.
+
+![docker runC](/images/docker/docker-runc.png)
+
+Image'ın çalışan örneği olan container'lar ise runC processinin child processi olarak çalışır.
 
 #### Docker CLI
 
