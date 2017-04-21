@@ -57,6 +57,7 @@ java                latest              sha256:c1ff613e8ba25833d2e1940da0940c382
 > Dikkat ederseniz java image'ine ait iki ayrı tag ile etiketlenmiş image bulunuyor. Aynı image'ler farklı tagler ile etiketlenebilir ancak image id değerleri aynı olmalıdır.
 
 çıktıyı formatlayalım;
+{% raw %}
 ```
 root@alican-laptop:/home/alican# docker images --format "Name({{.Repository}})  Tag({{.Tag}})  Size({{.Size}})"
 Name(microsoft/mssql-server-linux)  Tag(latest)  Size(1.33GB)
@@ -76,6 +77,8 @@ Name(hello-world)  Tag(latest)  Size(1.84kB)
 Name(store/hpsoftware/sitescope_store)  Tag(sitescope.11.33)  Size(938MB)
 Name(docker/whalesay)  Tag(latest)  Size(247MB)
 ```
+{% endraw %}
+
 > **--format** ile **.Id**, **.Repository**, **.Tag**, **.Size**, **.CreatedAt**, **.Digest**, **.CreatedSince** değerlerini kullanabilirsiniz.
 
 Şimdi ise **docker image** komutlarına bakalım;
