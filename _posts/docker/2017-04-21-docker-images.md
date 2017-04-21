@@ -2,10 +2,10 @@
 layout: post
 title: Docker images
 permalink: /blog/docker/docker-images
-summary:  Merhabalar, bu yazımızda docker image konusunu ele alacağız. docker image'ın ne olduğundan, öneminden, image oluşturma gibi konulara değinmiş olacağız.
+summary:  Merhabalar, bu yazımızda docker image konusunu ele alacağız. docker image'ın ne olduğundan, öneminden ve nasıl image oluştururuz gibi konulara değinmiş olacağız.
 ---
 
-Merhabalar, bu yazımızda docker image konusunu ele alacağız. docker image'ın ne olduğundan, öneminden, image oluşturma gibi konulara değinmiş olacağız.
+Merhabalar, bu yazımızda docker image konusunu ele alacağız. docker image'ın ne olduğundan, öneminden ve nasıl image oluştururuz gibi konulara değinmiş olacağız.
 
 ### Docker images
 
