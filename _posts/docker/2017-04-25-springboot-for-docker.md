@@ -8,7 +8,7 @@ summary:  Merhabalar, bu yazımızda spring boot uygulamamızı docker'da nasıl
 Merhabalar, bu yazımızda spring boot uygulamamızı docker'da nasıl çalıştırırız ona bakacağız.
 
 ### Movie Application
-Uygulamaya git reposu üzerinden [şurada](https://github.com/AlicanAkkus/spring-boot-for-docker) erişebilirsiniz.
+Uygulamaya git reposu üzerinden [github repo](https://github.com/AlicanAkkus/spring-boot-for-docker) erişebilirsiniz.
 
 Uygulamamız kabaca bir film arama uygulaması. http://www.omdbapi.com adresinin sağlamış olduğu api ile film sorgulama yapıyoruz sadece. Çıktı aşağıdakine benzer olacaktır;
 
