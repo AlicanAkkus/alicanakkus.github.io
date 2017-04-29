@@ -64,11 +64,7 @@ public abstract final void test();
 ```
 Yukardaki methodu yazmaya kalkıştıgımızda kullandıgımız ide (İntellij İdea)  bize yanlış bir combinasyon kullandığımızı söyleyecektir.
 
-<a href="http://alicanakkus.com/wp-content/uploads/2014/08/2014-11-05-030623.png"><img class="alignleft size-full wp-image-533" src="http://alicanakkus.com/wp-content/uploads/2014/08/2014-11-05-030623.png" alt="2014-11-05 03:06:23" width="413" height="60" /></a>
-
-&nbsp;
-
-&nbsp;
+![java tt](/images/java-platform/core-java/javatt_2.png)
 
 ^ Aynı hata iletisini şu method tanımlamarı içinde alırız;
 ``` java
@@ -211,7 +207,7 @@ if(fruit != null){
 ```
 
 **17 December 2015**
-Servlet, initalize olmadan önce getServletConfig() methodunun çağrılması Servlet instantiating exceptiona neden olur. Container tarafından init() methodu çağrıldıktan sonra Servlet'imiz oluşmuş olur ancak. Bu nedenle Servlet class constructor içerisinde Servlet Confige erişmek hataya neden olacaktır.  Aşağıdaki code şu hataya örnektir;
+Servlet, initalize olmadan önce getServletConfig() methodunun çağrılması Servlet instantiating exceptiona neden olur. Container tarafından init() methodu çağrıldıktan sonra Servletimiz oluşmuş olur ancak. Bu nedenle Servlet class constructor içerisinde Servlet Confige erişmek hataya neden olacaktır.  Aşağıdaki code şu hataya örnektir;
 
 ``` java
 public class MyServlet extends HttpServlet {
@@ -245,9 +241,7 @@ final ServletConfig config = getServletConfig();
 ```
 Servlete erişmek istediğimizde aşağıdaki sonucu görebiliriz;
 
-<img class="size-full wp-image-1062 aligncenter" src="http://alicanakkus.com/wp-content/uploads/2014/08/Screenshot-from-2015-12-17-000105.png" alt="Screenshot from 2015-12-17 00:01:05" width="849" height="276" />
-
-&nbsp;
+![java tt2](/images/java-platform/core-java/javatt_1.png)
 
 **17 December 2015**
 
@@ -325,3 +319,59 @@ Default olarak tomcat, sesssion için unique olan string tipinde jsessionid ol
 Örnek olarak default cookine name ile tomcat şöyle bir session id olusturur : https://webapp.com/index.jsp;jsessionid=557206C363F1267A24AB769CA0DE4529.node01
 
 Değişiklik sonrası şunun gibi olacaktır : https://webapp.com/index.jsp;JCaysever=557206C363F1267A24AB769CA0DE4529.node01
+
+**29 April 2017**
+
+Java exception handling konusunda best practices olarak aşağıdaki yöntemleri/tavsiyeleri dikkate alabiliriz;
+* **throw eaerly-fast fail and catch late** : Kod seviyesinde birşey beğenilmiyor ise olabilecek en kısa sürede throw edilmeli yani exception fırlatılmalı. Bunun yanında catch etme işlemi de sona bırakılmalıdır. Şöyle ki db'den user çekeceksiniz, methodunuz id parametre'si alıyor. Buarada kötü olan yaklaşım connection alma, statement'lar vs olusturduktan sonra id'yi valide edip beğenilmiyor ise throw etmektir. Doğru olan yaklaşım ise ilk olarak id parametresini vallide etmek, beğenilmiyor ise throw etmektir. Kötü yaklaşıma ek olarak ise aynı method içerisinde hem throw edip hem catch etmektir. UI'da stacktrace görmedikçe en yukarıya doğru throw edilebilir :)
+* **Checked/Unchecked exception** : Teorik olarak checked <-> unchecked exceptionlara dönüşüm yapılabilir. Bir exception'un checked/unchecked olmasına şöyle karar verilir; Methodu call eden/kullanan client eğer exception durumunda kendini recover edebiliyor ise checked, edemiyor ise unchecked yapmak mantıklı olacaktır. Aşağıdaki senaryoya bakalım;
+``` java
+public User findByUsername(String username) throws UserNotFoundException;
+```
+``` java
+public User findByUsername(String username) throws Exception;
+```
+İki method da **username** parametresi ile User getirme işini yapıyor. Şimdi ikinci yöntem ile kod yazan bir keçi doğru yapmıyordur. İlk yöntem gayet net ve anlaşılırdır methodu kullanan kişi için. Bu method user bulunamadı hatası dönebilir ve ben buna göre bir logic yapmalıyım diye fikir yürütebilir. Ama ikinci yöntem de ise bu adam bir exception fırlatabilir ama bunun tipi nedir, ne anlama gelir, hangi durumlarda exception fırlatabilir hiçbir fikri yoktur. Bu nedenle ya birinci yöntemi tercih etmeli yada ikicin yöntem kullanılacak ise throws ifadesi ya düzeltilmeli ya da kaldırılmalıdır.
+* **Custom exception** : Custom exceptionlar her zaman daha anlaşılır ve yönetilebilirdir. Custom ex. jvm performansını kötü etkileyebilir ancak bu göz ardı edilebilir. Bir methoddan **UserNotFoundException** throw edilmesi ile **Exception** throw edilmesi farklıdır.
+* **Exception wrapping** : Exception wrapping yapılıyor ise yani bir exception alındığında bundan yola çıkarak yeni bir exception oluşturuluyor ise orjinal ex. kaybedilmemelidir. **findByUsername** methodu içerisinde herhangi bir ex alınır ise **UserNotFoundException** exception oluşturulup o kullanılabilir. Bu durumda gerçek ex. nesnesi kaybedilmemelidir.
+* **Exception in flow** : Exception'lar uygulama akışı içerisinde bir logic'e karar vermek için kullanılmamalı. Exception alırsa şunu yap almazsa şunu yap vs vs :) kötü bir alışkanlıktır ve kodun okunabilirliğini düşürdüğü gibi esnek olmayan ve bakımı zor bir kod olarak karşımıza çıkacaktır. ,
+* **throw in try block** : Try bloğu içerinde exception throw edilmemelidir. İki kod satırına bakalım. İkinci yöntem hem kodun okunabilirliğini düşürür hem extra kod yazmamıza neden olur.
+
+``` java
+public User findByUsername(String username){
+  if(StringUtils.isBlank(username)){
+    throw new RuntimeException("Username could't not be empty/null");
+  }
+
+  try{
+    ..
+  }catch(Exception e){
+    ..
+  }
+}
+```
+
+``` java
+public User findByUsername(String username){
+  try{
+    if(StringUtils.isBlank(username)){
+      throw new RuntimeException("Username could't not be empty/null");
+    }
+  }catch(Exception e){
+    throw new RuntimeException(e);//tekrar bir ex olustur fırlat vs vs.
+  }
+}
+```
+
+* **Log and throw anti-pattern** : Bir exception'u hem catch edip hem log yazıp hem de throw etmek anlamsızdır. Yani log yazıyorsun da neden tekrar throw ediyorsun? call stack'de yukarıdaki method yine catch etti bir de o log yazdı, o da throw etti vs derken loga baktığınızda çarşaf çarşaf stacktrace'ler extra extra loglar görmüş oluruz.
+``` java
+catch (NoSuchFieldException exp) {
+   LOG.error("Exception occurred", exp);
+   throw exp;
+}
+```
+* **Throwable/Error** : JVM tarafından fırlatılan Throwable ve Error hatalarını catch etmemek lazım. Catch etseniz dahi aslında uygulama crash olduğu için uygulama göçmüş olacaktır zaten.
+* **Preserve loose coupling** : Servis katmanında ki bir hatayı dışarıya olduğu gibi açmamak lazım. Örneğin ui'da stacktrace yada sql exception görmek kadar sinir bozucu birşey olamaz. Anlamlı ve anlaşılabilir hata mesajları olmalı bunun yanında da içerdeki hata olduğu gibi dışarıya açılmamalıdır.
+* **Keep exception heirarchy** : Exception hiyerarşisi korunmalıdır. Yani birkaç kere yukarı throw edilen ex. bir yerde hiyerarşisini kaybetmemeli. Ex.'in oluştuğu ilk method ve ex.'yi yakalayan son method stack trace içerisinde görülmelidir.
+
+> A.Akkus
