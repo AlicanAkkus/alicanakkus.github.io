@@ -1,0 +1,31 @@
+version: '2' #(1)
+
+#(2)
+services:
+    db:
+        image: mysql:latest
+        volumes:
+         - db_data:/var/lib/mysql
+        restart: always
+        environment:
+         MYSQL_ROOT_PASSWORD: 1234
+         MYSQL_DATABASE: challenge
+         MYSQL_USER: root
+         MYSQL_PASSWORD: 1234
+        ports:
+            - "3306:3306"
+
+    app:
+        image: aakkus/iyzico-challenge
+        ports:
+            - "8080:8080"
+        depends_on:
+            - db
+            - redis
+
+    redis:
+        image: redis:latest
+        ports:
+            - "6379:6379"
+volumes:
+    db_data:
