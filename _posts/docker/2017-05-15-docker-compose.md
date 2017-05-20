@@ -246,6 +246,6 @@ iyzi-it125:docker alican.akkus$
 
 **app** service depended to db and redis. Docker engine, firstly run the depended containers and then run the others.
 
-I hope this blog is useful for you. See you next posts.
+I hope this blog is useful for you. See you at next posts.
 
 > Alican Akkus.
