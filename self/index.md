@@ -4,6 +4,39 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#1Jun2017">1 Haziran 2017 - 23:20</a>
+
+<p>
+Seviyoruz dedik işte
+
+sorma ne kadar
+
+baya çok, aşırı şiddetli,
+
+kuvvetli, heybetli artı hiddetli.
+
+Kısaca söylersem, su kadar
+
+Uzunca, mississippi kadar
+
+şirince, pisi pisi kadar
+
+elimle gösteriyim mi?
+
+nah bak şu kadar
+
+
+ah huma kuşu kadar
+
+vah işci maaşı kadar
+
+tüh az mı oldu bu kadar?
+
+Uzatma işte..
+
+Seviyorum dedim, o kadar.</p>
+> Ah Muhsin Ünlü
+
 <a href="#23Marc2017">23 Mart 2017 - 21:50</a>
 > <p id="23Marc2017">Gözler terk edilen şeylerle doludur.</p>
 > > Lale Müldür
