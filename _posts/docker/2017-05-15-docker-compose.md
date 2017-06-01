@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Docker Compose
-permalink: /blog/docker/docker-compose
+permalink: /blog/docker/docker-compose-en
 summary:  This blog explains the purpose of Docker compose build and provide examples of how they help us generate smaller and more efficient Docker Containers.
 ---
 
