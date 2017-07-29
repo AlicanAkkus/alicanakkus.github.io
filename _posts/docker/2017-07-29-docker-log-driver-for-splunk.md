@@ -5,14 +5,14 @@ permalink: /blog/docker/docker-log-driver-splunk
 summary: This post is about how use Splunk logging driver in Docker. We will explains how setup splunk server on local environment and how can we feed splunk in our container(s) logs.
 ---
 
-This post is about how use Splunk logging driver in Docker. We will explains how setup splunk server on local environment and how can we feed splunk in our container(s) logs.
+This post is about how to use Splunk logging driver in Docker. We will explain how to setup splunk server on a local environment and how can we feed splunk in with container(s) logs.
 
-After you completed this post you will be able to understand basic of docker logging driver and how use it.
+After you completed this post, you will be able to understand basic concept of docker logging driver and how to use it.
 
 ## Docker logging drivers
 Docker includes multiple logging mechanisms to help you get information from running containers and services. These mechanisms are called logging drivers.
 
-Each Docker daemon has a default logging driver, which each container uses unless you configure it to use a different logging driver.
+Each Docker daemon has a default logging driver that each container uses it unless you configure to use a different logging driver.
 
 | Driver	      | Description	  |
 | --- | --- |
