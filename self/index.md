@@ -4,38 +4,9 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
-<a href="#1Jun2017">1 Haziran 2017 - 23:20</a>
-
-<p>
-Seviyoruz dedik işte
-
-sorma ne kadar
-
-baya çok, aşırı şiddetli,
-
-kuvvetli, heybetli artı hiddetli.
-
-Kısaca söylersem, su kadar
-
-Uzunca, mississippi kadar
-
-şirince, pisi pisi kadar
-
-elimle gösteriyim mi?
-
-nah bak şu kadar
-
-
-ah huma kuşu kadar
-
-vah işci maaşı kadar
-
-tüh az mı oldu bu kadar?
-
-Uzatma işte..
-
-Seviyorum dedim, o kadar.</p>
-> Ah Muhsin Ünlü
+<a href="#20Aug2017">20 Ağustos 2017 - 17:30</a>
+><p id="20Aug2017">Ben ona sabah olamasam da dingin bir ikindi olayım istemişimdir.</p>
+> > Şükrü Erbaş
 
 <a href="#23Marc2017">23 Mart 2017 - 21:50</a>
 > <p id="23Marc2017">Gözler terk edilen şeylerle doludur.</p>
@@ -318,7 +289,7 @@ Seni çok anıyorum ama aramıyorum.
 
 <a href="#29Sub2016">29 Şubat 2016</a>
 
-> <p id="29Sub2016">Bir şeyin çaresi varsa tembellik yapma. 
+> <p id="29Sub2016">Bir şeyin çaresi varsa tembellik yapma.
 Bir şeyin çaresi yoksa üzüntü yapma.</p>
 > > Said Nursi(r.a)
 
