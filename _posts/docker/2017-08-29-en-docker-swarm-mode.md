@@ -2,7 +2,7 @@
 layout: post
 title: Docker Swarm Mode Introduction
 permalink: /blog/docker/docker-swarm-mode-introduction-en
-summary: In this post we will talk about Docker Swarm Mode.
+summary: In this post we will talk about Docker Swarm Mode. We will start by talking about what is the Docker Swarm Mode. We will then look at use cases and look at the theory of work.
 
 ---
 
