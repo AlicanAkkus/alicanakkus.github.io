@@ -1,4 +1,8 @@
-#!/usr/bin/env bash
-set -e # halt script on error
+language: ruby
 
-bundle exec jekyll build
+install:
+  - bundle exec jekyll build
+
+env:
+  global:
+    secure: EXAMPLE
