@@ -4,6 +4,10 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#09Nov2018">9 Kasım 2018 - 21:15</a>
+><p id="09Nov2018">Demek ki insanlar birbirine ancak muayyen bir hadde kadar yaklaşabiliyorlar ve ondan sonra, daha fazla sokulmak için atılan her adım daha çok uzaklaştırıyor.</p>
+> > S.Ali
+
 <a href="#20Aug2017">20 Ağustos 2017 - 17:30</a>
 ><p id="20Aug2017">Ben ona sabah olamasam da dingin bir ikindi olayım istemişimdir.</p>
 > > Şükrü Erbaş
