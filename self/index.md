@@ -3,6 +3,11 @@ layout: page
 title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
+
+<a href="#18Nov2018">18 Kasım 2018 - 18:38</a>
+><p id="18Nov2018">Bir kadının bize her şeyini verdiğini zannettiğimiz anda onun hakikatte bize hiçbir şey vermiş olmadığını görmek, bize en yakın olduğunu sandığımız sırada bizden, bütün mesafelerin ötesindeymiş kadar uzak bulunduğunu kabule mecbur olmak acı bir şey.</p>
+> > S.Ali
+
 <a href="#12Nov2018">12 Kasım 2018 - 20:40</a>
 ><p id="12Nov2018">Fil şirindir ama onca sineğin başını ezendir, bil!
 Ben humusla rahat uyurken, seni saracak kil, bil</p>
