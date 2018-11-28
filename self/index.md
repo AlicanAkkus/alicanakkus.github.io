@@ -4,6 +4,10 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#28Nov2018">28 Kasım 2018 - 22:43</a>
+><p id="28Nov2018">Düşüncelerim hep onun etrafında dönüp dolaşıyordu.</p>
+> > S.Ali
+
 <a href="#18Nov2018">18 Kasım 2018 - 18:38</a>
 ><p id="18Nov2018">Bir kadının bize her şeyini verdiğini zannettiğimiz anda onun hakikatte bize hiçbir şey vermiş olmadığını görmek, bize en yakın olduğunu sandığımız sırada bizden, bütün mesafelerin ötesindeymiş kadar uzak bulunduğunu kabule mecbur olmak acı bir şey.</p>
 > > S.Ali
