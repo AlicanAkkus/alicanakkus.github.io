@@ -4,6 +4,10 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#02Dec2018">02 Aralık 2018 - 18:30</a>
+><p id="02Dec2018">Insan eğer aşık olmazsa çabuk yaşlanır ve gençlik sefasını elden verir. Eğer aklı olmazsa geç büyür ve çocukluk cehaletinde kalır. Gereksiz aşk aklı alır ve gereksiz akıl aşkı yok eder. Gereksiz akıl daima dünyayı düşünen akıldır ve gereksiz aşk Allah'tan başkasını sevmektir.</p>
+> > Ali Rıza Penahiyan
+
 <a href="#28Nov2018">28 Kasım 2018 - 22:43</a>
 ><p id="28Nov2018">Düşüncelerim hep onun etrafında dönüp dolaşıyordu.</p>
 > > S.Ali
