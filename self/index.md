@@ -19,7 +19,7 @@ heading: Hal-i Cünunum
 <a href="#12Nov2018">12 Kasım 2018 - 20:40</a>
 ><p id="12Nov2018">Fil şirindir ama onca sineğin başını ezendir, bil!
 Ben humusla rahat uyurken, seni saracak kil, bil</p>
-> > S.Ali
+> > kafkef
 
 <a href="#09Nov2018">9 Kasım 2018 - 21:15</a>
 ><p id="09Nov2018">Demek ki insanlar birbirine ancak muayyen bir hadde kadar yaklaşabiliyorlar ve ondan sonra, daha fazla sokulmak için atılan her adım daha çok uzaklaştırıyor.</p>
