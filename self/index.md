@@ -4,6 +4,10 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#08Dec2018">08 Aralık 2018 - 22:05</a>
+><iframe width="550" height="385" id="08Dec2018" src="https://www.youtube.com/embed/p9cZ67MVmOM"></iframe>
+> > S.Ali
+
 <a href="#08Dec2018">08 Aralık 2018 - 16:30</a>
 ><p id="08Dec2018">
 Bir aleme indim yalnız, 
