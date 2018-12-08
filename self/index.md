@@ -6,7 +6,7 @@ heading: Hal-i Cünunum
 
 <a href="#02Dec2018">02 Aralık 2018 - 18:30</a>
 ><p id="02Dec2018">
-  Bir aleme indim yalnız, 
+Bir aleme indim yalnız, 
 Yerde toprak, gökte yıldız. 
 Bir yan susuz bir yan deniz. 
 İki el, bir baş verdiler, 
@@ -14,11 +14,9 @@ Bir çift göz ağlar da güler.
 Dört bir yanda benim gibiler. 
 Doğru söz içinmiş diller, 
 İşte kalbin sev dediler. 
-
 Bana yalan söylediler, 
 Bana yalan söylediler; 
 Kaderden bahsetmediler. 
-
 Varsın böyle geçsin ömrüm, 
 Neşeyle dolsun bari her günüm. 
 Hani benim sevdiklerim? 
