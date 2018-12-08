@@ -4,8 +4,8 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
-<a href="#02Dec2018">02 Aralık 2018 - 18:30</a>
-><p id="02Dec2018">
+<a href="#08Dec2018">08 Aralık 2018 - 16:30</a>
+><p id="08Dec2018">
 Bir aleme indim yalnız, 
 Yerde toprak, gökte yıldız. 
 Bir yan susuz bir yan deniz. 
