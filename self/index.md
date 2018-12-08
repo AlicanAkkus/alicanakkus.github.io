@@ -5,7 +5,8 @@ heading: Hal-i Cünunum
 ---
 
 <a href="#02Dec2018">02 Aralık 2018 - 18:30</a>
-><p id="02Dec2018">Bir aleme indim yalnız, 
+><p id="02Dec2018">
+  Bir aleme indim yalnız, 
 Yerde toprak, gökte yıldız. 
 Bir yan susuz bir yan deniz. 
 İki el, bir baş verdiler, 
@@ -22,7 +23,8 @@ Varsın böyle geçsin ömrüm,
 Neşeyle dolsun bari her günüm. 
 Hani benim sevdiklerim? 
 Hani gönül verdiklerim? 
-Hasret çeker, ben giderim.</p>
+Hasret çeker, ben giderim.
+</p>
 > > ??
 
 <a href="#02Dec2018">02 Aralık 2018 - 18:30</a>
