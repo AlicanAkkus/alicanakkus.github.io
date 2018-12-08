@@ -21,8 +21,7 @@ Varsın böyle geçsin ömrüm,
 Neşeyle dolsun bari her günüm. 
 Hani benim sevdiklerim? 
 Hani gönül verdiklerim? 
-Hasret çeker, ben giderim.
-</p>
+Hasret çeker, ben giderim.</p>
 > > ??
 
 <a href="#02Dec2018">02 Aralık 2018 - 18:30</a>
