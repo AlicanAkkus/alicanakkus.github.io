@@ -5,7 +5,8 @@ heading: Hal-i Cünunum
 ---
 
 <a href="#15Dec2018">15 Aralık 2018 - 14:45</a>
-><p id="15Dec2018">
+>
+<p id="15Dec2018">
 Söyle gece saçlı kadın;
 
 Saçlarının rengini sevdandan mı,kaderden mi aldın?
