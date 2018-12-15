@@ -4,6 +4,22 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#15Dec2018">15 Aralık 2018 - 14:45</a>
+><p id="15Dec2018">
+Söyle gece saçlı kadın;
+
+Saçlarının rengini sevdandan mı,kaderden mi aldın?
+
+Hayatı milyona bölüp nasıl tek parça halinde nefes aldın?
+
+Aynaya sırtını dönüp kendine bu kaş çatmaların neden?
+
+Sevinçlerini, coşkularını hangi örümcek ağına kaptırdın?
+
+Kaç gece ölüm provasına cellatın kollarında yattın?
+</p>
+> > ??
+
 <a href="#08Dec2018">08 Aralık 2018 - 22:05</a>
 ><iframe width="550" height="385" id="08Dec2018" src="https://www.youtube.com/embed/p9cZ67MVmOM"></iframe>
 
