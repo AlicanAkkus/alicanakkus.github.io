@@ -40,7 +40,7 @@ Kaç gece ölüm provasına cellatın kollarında yattın?
 ~ Kaan Boşnak
 
 <a href="#08Dec2018">08 Aralık 2018 - 16:30</a>
-< id="08Dec2018">
+<p id="08Dec2018">
 Bir aleme indim yalnız, 
 Yerde toprak, gökte yıldız. 
 Bir yan susuz bir yan deniz. 
@@ -60,28 +60,28 @@ Hasret çeker, ben giderim.</p>
 ~ ??
 
 <a href="#02Dec2018">02 Aralık 2018 - 18:30</a>
-< id="02Dec2018">Insan eğer aşık olmazsa çabuk yaşlanır ve gençlik sefasını elden verir. Eğer aklı olmazsa geç büyür ve çocukluk cehaletinde kalır. Gereksiz aşk aklı alır ve gereksiz akıl aşkı yok eder. Gereksiz akıl daima dünyayı düşünen akıldır ve gereksiz aşk Allah'tan başkasını sevmektir.</p>
+<p id="02Dec2018">Insan eğer aşık olmazsa çabuk yaşlanır ve gençlik sefasını elden verir. Eğer aklı olmazsa geç büyür ve çocukluk cehaletinde kalır. Gereksiz aşk aklı alır ve gereksiz akıl aşkı yok eder. Gereksiz akıl daima dünyayı düşünen akıldır ve gereksiz aşk Allah'tan başkasını sevmektir.</p>
 ~ Ali Rıza Penahiyan
 
 <a href="#28Nov2018">28 Kasım 2018 - 22:43</a>
-< id="28Nov2018">Düşüncelerim hep onun etrafında dönüp dolaşıyordu.</p>
+<p id="28Nov2018">Düşüncelerim hep onun etrafında dönüp dolaşıyordu.</p>
 ~ S.Ali
 
 <a href="#18Nov2018">18 Kasım 2018 - 18:38</a>
-< id="18Nov2018">Bir kadının bize her şeyini verdiğini zannettiğimiz anda onun hakikatte bize hiçbir şey vermiş olmadığını görmek, bize en yakın olduğunu sandığımız sırada bizden, bütün mesafelerin ötesindeymiş kadar uzak bulunduğunu kabule mecbur olmak acı bir şey.</p>
+<p id="18Nov2018">Bir kadının bize her şeyini verdiğini zannettiğimiz anda onun hakikatte bize hiçbir şey vermiş olmadığını görmek, bize en yakın olduğunu sandığımız sırada bizden, bütün mesafelerin ötesindeymiş kadar uzak bulunduğunu kabule mecbur olmak acı bir şey.</p>
 ~ S.Ali
 
 <a href="#12Nov2018">12 Kasım 2018 - 20:40</a>
-< id="12Nov2018">Fil şirindir ama onca sineğin başını ezendir, bil!
+<p id="12Nov2018">Fil şirindir ama onca sineğin başını ezendir, bil!
 Ben humusla rahat uyurken, seni saracak kil, bil</p>
 ~ kafkef
 
 <a href="#09Nov2018">9 Kasım 2018 - 21:15</a>
-< id="09Nov2018">Demek ki insanlar birbirine ancak muayyen bir hadde kadar yaklaşabiliyorlar ve ondan sonra, daha fazla sokulmak için atılan her adım daha çok uzaklaştırıyor.</p>
+<p id="09Nov2018">Demek ki insanlar birbirine ancak muayyen bir hadde kadar yaklaşabiliyorlar ve ondan sonra, daha fazla sokulmak için atılan her adım daha çok uzaklaştırıyor.</p>
 ~ S.Ali
 
 <a href="#20Aug2017">20 Ağustos 2017 - 17:30</a>
-< id="20Aug2017">Ben ona sabah olamasam da dingin bir ikindi olayım istemişimdir.</p>
+<p id="20Aug2017">Ben ona sabah olamasam da dingin bir ikindi olayım istemişimdir.</p>
 ~ Şükrü Erbaş
 
 <a href="#23Marc2017">23 Mart 2017 - 21:50</a>
@@ -238,7 +238,7 @@ Onlar bir denizi sezme derinliğindedir.</p>
 
 <a href="#3May2016">3 Mayıs 2016 - 17:05</a>
 
-< id="3May2016">
+<p id="3May2016">
 Abbas
 Haydi Abbas, vakit tamam;
 Akşam diyordun işte oldu akşam.
