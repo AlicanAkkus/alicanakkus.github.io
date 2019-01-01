@@ -7,7 +7,7 @@ heading: Hal-i Cünunum
 <p id="31Dec2018">
 Sen bana yeni yılsın her dakika. 
 
-HerHer dakika yeni bir yaşıma giriyorum.
+Her dakika yeni bir yaşıma giriyorum.
 </p>
 
 <a href="#21Dec2018">21 Aralık 2018 - 23:15</a>
