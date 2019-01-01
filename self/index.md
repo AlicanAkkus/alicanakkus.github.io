@@ -3,7 +3,7 @@ layout: page
 title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
-<a href="#31Dec2018">31 Aralık 20 - 00:00</a>
+<a href="#31Dec2018">31 Aralık 2018 - 00:00</a>
 <p id="31Dec2018">
 Sen bana yeni yılsın her dakika. 
 
