@@ -5,8 +5,8 @@ heading: Hal-i Cünunum
 ---
 <a href="#31Dec2018">31 Aralık 2018 - 00:00</a>
 <p id="31Dec2018">
-Sen bana yeni yılsın her dakika. 
-
+Sen bana yeni yılsın her dakika.
+  
 Her dakika yeni bir yaşıma giriyorum.
 </p>
 
