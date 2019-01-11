@@ -3,6 +3,16 @@ layout: page
 title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
+
+<a href="#11Jan2018">11 Ocak 2019 - 22:20</a>
+<p id="11Jan2018">
+Özgürlüğü ve huzuru buldum meczupluğumda; yanlızlığın özgürlüğünü ve anlaşılmamış olmanın huzurunu.
+  
+Çünkü bizi anlayanlar içimizde bir şeye de egemen olurlar.
+
+~ Halil Cibran
+</p>
+
 <a href="#31Dec2018">31 Aralık 2018 - 00:00</a>
 <p id="31Dec2018">
 Sen bana yeni yılsın her dakika.
