@@ -10,7 +10,8 @@ heading: Hal-i Cünunum
   
 Çünkü bizi anlayanlar içimizde bir şeye de egemen olurlar.
 
-~ Halil Cibran
+
+~ Halil Cibran / Meczup
 </p>
 
 <a href="#31Dec2018">31 Aralık 2018 - 00:00</a>
