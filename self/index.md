@@ -4,6 +4,17 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#14Jan2018">14 Ocak 2019 - 23:05</a>
+<p id="14Jan2018">
+
+Eğer yeryüzünde ki bütün elleri bir masanın üstüne koysalar, elini bulabilirdim onların içinden.
+
+
+
+~ Ali Ural
+</p>
+
+
 <a href="#11Jan2018">11 Ocak 2019 - 22:20</a>
 <p id="11Jan2018">
 Özgürlüğü ve huzuru buldum meczupluğumda; yanlızlığın özgürlüğünü ve anlaşılmamış olmanın huzurunu.
