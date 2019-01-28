@@ -4,6 +4,18 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#29Jan2018">29 Ocak 2019 - 22:20</a>
+<p id="29Jan2018">
+"Ben fena kız değilim, senin meyus olmayıp saadetin için hayatımı şimdi fedaya hazırım." diyorsun. Aliye, bana böyle şeyler yazma... Sonra ben sana deli gibi aşık olurum. Mektubundaki “Beni istediğim kadar sevmezsen ölürüm” cümlesini belki elli defa okudum. 
+Ah Aliye, seni isteyebileceğinden çok seveceğim.
+Etrafın seni sıktığı zaman kitap oku… Ben şimdiye kadar her şeyden çok kitaplarımı severdim. Bundan sonra her şeyden çok seni seveceğim ve kitapları beraber seveceğiz. İnsan muhitin bayağı, manasız, soğuk tesirlerinden kurtulmak istediği zaman yalnız okumak fayda verir. Bana en felaketli günlerimde kitaplarım arkadaş oldu fakat bu yetmiyor. Şiirlerimde de gördün ki, kitaplara rağmen çok ıstırap çektim çünkü candan bir insanım yoktu. Sen benim yarım kalan tarafımı ikmâl edeceksin. Uzun, çok uzun şeyler yaz. Seni hasretle kucaklarım benim birtanecik Aliye'm.
+Küçük resim öyle gözümü yumup bakacak gibi fena değildi. Sen en fena resimde bile güzelsin Aliye. Sen her zaman herkesten güzelsin...
+
+
+~ Sabahattin Ali
+</p>
+
+
 <a href="#28Jan2018">28 Ocak 2019 - 12:38</a>
 <p id="28Jan2018">
 
