@@ -4,6 +4,16 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#28Jan2018">28 Ocak 2019 - 12:38</a>
+<p id="28Jan2018">
+
+Kendinin bile ücrasında yaşayan, benim için gidecek yer ne kadar uzak olabilir?
+
+
+
+~ İsmet Özel
+</p>
+
 <a href="#14Jan2018">14 Ocak 2019 - 23:05</a>
 <p id="14Jan2018">
 
