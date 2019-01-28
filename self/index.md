@@ -11,6 +11,7 @@ Kendinin bile ücrasında yaşayan, benim için gidecek yer ne kadar uzak olabil
 
 
 
+
 ~ İsmet Özel
 </p>
 
