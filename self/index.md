@@ -4,6 +4,13 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#30Jan2018">30 Ocak 2019 - 22:17</a>
+<p id="30Jan2018">
+Gizlice düşündüğüm, fark edilmesinden korktuğum hakikat sen miydin?
+
+~ Cahit Zarifoğlu
+</p>
+
 <a href="#28Jan2018">28 Ocak 2019 - 22:20</a>
 <p id="28Jan2018">
 "Ben fena kız değilim, senin meyus olmayıp saadetin için hayatımı şimdi fedaya hazırım." diyorsun. Aliye, bana böyle şeyler yazma... Sonra ben sana deli gibi aşık olurum. Mektubundaki “Beni istediğim kadar sevmezsen ölürüm” cümlesini belki elli defa okudum. 
