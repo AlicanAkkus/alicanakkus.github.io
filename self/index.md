@@ -4,6 +4,20 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#03Feb2018">03 Şubat 2019 - 17:56</a>
+<p id="03Feb2018">
+Ne kaldı bak ellerimde
+  
+Biliyorum gülüyorsun
+
+Her adımımda derine
+
+Ölüyorum..
+
+
+~ Hayko Cepkin
+</p>
+
 <a href="#30Jan2018">30 Ocak 2019 - 22:17</a>
 <p id="30Jan2018">
 Gizlice düşündüğüm, fark edilmesinden korktuğum hakikat sen miydin?
