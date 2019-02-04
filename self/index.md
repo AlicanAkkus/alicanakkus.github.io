@@ -6,6 +6,8 @@ heading: Hal-i Cünunum
 
 <a href="#04Feb2018">04 Şubat 2019 - 23:05</a>
 <p id="04Feb2018">
+
+
 Semtimizin bir tanesiydin Müjgan.
 
 Saçları sırtına kadar sırma sırma dökülür, elleri ufacık, gözleri dört defa lacivertti.
@@ -17,6 +19,8 @@ Ve de her ne hikmetse o da bana gönüllüydü.
 
 <a href="#03Feb2018">03 Şubat 2019 - 17:56</a>
 <p id="03Feb2018">
+
+
 Ne kaldı bak ellerimde
 
 Biliyorum gülüyorsun
