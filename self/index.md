@@ -4,6 +4,11 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
+<a href="#07Feb2018">07 Şubat 2019 - 22:05</a>
+<p id="07Feb2018">
+  Üç de çocuğu vardı. Celil abi öldü dediler. Biz de öldük.
+</p>
+
 <a href="#04Feb2018">04 Şubat 2019 - 23:05</a>
 <p id="04Feb2018">
   Semtimizin bir tanesiydin Müjgan.
