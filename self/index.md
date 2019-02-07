@@ -16,11 +16,11 @@ heading: Hal-i Cünunum
 
 <a href="#03Feb2018">03 Şubat 2019 - 17:56</a>
 <p id="03Feb2018">
-  Ne kaldı bak ellerimde
+  Ne kaldı bak ellerimde.
   
-  Biliyorum gülüyorsun
+  Biliyorum gülüyorsun.
   
-  Her adımımda derine
+  Her adımımda derine.
   
   Ölüyorum..
   
