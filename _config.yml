@@ -20,6 +20,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-seo-tag
 
 kramdown:
   input: GFM
