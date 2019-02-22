@@ -4,13 +4,20 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
-<a href="#07Feb2018">07 Şubat 2019 - 22:05</a>
-<p id="07Feb2018">
+<a href="#07Feb2019">22 Şubat 2019 - 23:15</a>
+<p id="22Feb2019">
+  İnsan tahammül edemeyeceğini zannettiği şeylere pek çabuk alışıyor ve katlanıyor.
+  
+  ~ Sabahattin Ali
+</p>
+
+<a href="#07Feb2019">07 Şubat 2019 - 22:05</a>
+<p id="07Feb2019">
   Üç de çocuğu vardı. Celil abi öldü dediler. Biz de öldük.
 </p>
 
-<a href="#04Feb2018">04 Şubat 2019 - 23:05</a>
-<p id="04Feb2018">
+<a href="#04Feb2019">04 Şubat 2019 - 23:05</a>
+<p id="04Feb2019">
   Semtimizin bir tanesiydin Müjgan.
   
   Saçları sırtına kadar sırma sırma dökülür, elleri ufacık, gözleri dört defa lacivertti.
@@ -19,8 +26,8 @@ heading: Hal-i Cünunum
   
 </p>
 
-<a href="#03Feb2018">03 Şubat 2019 - 17:56</a>
-<p id="03Feb2018">
+<a href="#03Feb2019">03 Şubat 2019 - 17:56</a>
+<p id="03Feb2019">
   Ne kaldı bak ellerimde.
   
   Biliyorum gülüyorsun.
@@ -32,15 +39,15 @@ heading: Hal-i Cünunum
   ~ Hayko Cepkin
 </p>
 
-<a href="#30Jan2018">30 Ocak 2019 - 22:17</a>
-<p id="30Jan2018">
+<a href="#30Jan2019">30 Ocak 2019 - 22:17</a>
+<p id="30Jan2019">
 Gizlice düşündüğüm, fark edilmesinden korktuğum hakikat sen miydin?
 
 ~ Cahit Zarifoğlu
 </p>
 
-<a href="#28Jan2018">28 Ocak 2019 - 22:20</a>
-<p id="28Jan2018">
+<a href="#28Jan2019">28 Ocak 2019 - 22:20</a>
+<p id="28Jan2019">
 "Ben fena kız değilim, senin meyus olmayıp saadetin için hayatımı şimdi fedaya hazırım." diyorsun. Aliye, bana böyle şeyler yazma... Sonra ben sana deli gibi aşık olurum. Mektubundaki “Beni istediğim kadar sevmezsen ölürüm” cümlesini belki elli defa okudum. 
 Ah Aliye, seni isteyebileceğinden çok seveceğim.
 Etrafın seni sıktığı zaman kitap oku… Ben şimdiye kadar her şeyden çok kitaplarımı severdim. Bundan sonra her şeyden çok seni seveceğim ve kitapları beraber seveceğiz. İnsan muhitin bayağı, manasız, soğuk tesirlerinden kurtulmak istediği zaman yalnız okumak fayda verir. Bana en felaketli günlerimde kitaplarım arkadaş oldu fakat bu yetmiyor. Şiirlerimde de gördün ki, kitaplara rağmen çok ıstırap çektim çünkü candan bir insanım yoktu. Sen benim yarım kalan tarafımı ikmâl edeceksin. Uzun, çok uzun şeyler yaz. Seni hasretle kucaklarım benim birtanecik Aliye'm.
@@ -51,34 +58,28 @@ Küçük resim öyle gözümü yumup bakacak gibi fena değildi. Sen en fena res
 </p>
 
 
-<a href="#28Jan2018">28 Ocak 2019 - 12:38</a>
-<p id="28Jan2018">
+<a href="#28Jan2019">28 Ocak 2019 - 12:38</a>
+<p id="28Jan2019">
 
 Kendinin bile ücrasında yaşayan, benim için gidecek yer ne kadar uzak olabilir?
-
-
-
 
 ~ İsmet Özel
 </p>
 
-<a href="#14Jan2018">14 Ocak 2019 - 23:05</a>
-<p id="14Jan2018">
+<a href="#14Jan2019">14 Ocak 2019 - 23:05</a>
+<p id="14Jan2019">
 
 Eğer yeryüzünde ki bütün elleri bir masanın üstüne koysalar, elini bulabilirdim onların içinden.
-
-
 
 ~ Ali Ural
 </p>
 
 
-<a href="#11Jan2018">11 Ocak 2019 - 22:20</a>
-<p id="11Jan2018">
+<a href="#11Jan2019">11 Ocak 2019 - 22:20</a>
+<p id="11Jan2019">
 Özgürlüğü ve huzuru buldum meczupluğumda; yanlızlığın özgürlüğünü ve anlaşılmamış olmanın huzurunu.
   
 Çünkü bizi anlayanlar içimizde bir şeye de egemen olurlar.
-
 
 ~ Halil Cibran / Meczup
 </p>
