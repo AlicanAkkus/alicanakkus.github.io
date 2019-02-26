@@ -4,7 +4,14 @@ title: Hal-i Cünunum
 heading: Hal-i Cünunum
 ---
 
-<a href="#07Feb2019">22 Şubat 2019 - 23:15</a>
+<a href="#26Feb2019">26 Şubat 2019 - 21:50</a>
+<p id="26Feb2019">
+  bir kadının yüzüne bakıp sarhoş olacağımı hiç düşünmemiştim.
+  
+  ~ jack london
+</p>
+
+<a href="#22Feb2019">22 Şubat 2019 - 23:15</a>
 <p id="22Feb2019">
   İnsan tahammül edemeyeceğini zannettiği şeylere pek çabuk alışıyor ve katlanıyor.
   
