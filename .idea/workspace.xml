@@ -24,7 +24,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d2133f1-c32c-415d-b34c-7c4359e53abf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/self/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/self/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/self/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="65">
-                <caret line="215" column="202" selection-start-line="215" selection-start-column="202" selection-end-line="215" selection-end-column="202" />
+              <first_editor relative-caret-position="346">
+                <caret line="575" column="45" selection-start-line="575" selection-start-column="45" selection-end-line="575" selection-end-column="45" />
               </first_editor>
               <second_editor />
             </state>
@@ -127,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552137801988</updated>
-      <workItem from="1552137806360" duration="2271000" />
+      <workItem from="1552137806360" duration="3249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2271000" />
+    <option name="totallyTimeSpent" value="3249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -141,12 +140,12 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="IDEtalk Messages" />
       <window_info anchor="bottom" id="Docker" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32971996" />
       <window_info anchor="bottom" id="REST Client" />
       <window_info anchor="bottom" id="TeamCity" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -175,8 +174,8 @@
     <entry file="file://$PROJECT_DIR$/self/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="65">
-            <caret line="215" column="202" selection-start-line="215" selection-start-column="202" selection-end-line="215" selection-end-column="202" />
+          <first_editor relative-caret-position="346">
+            <caret line="575" column="45" selection-start-line="575" selection-start-column="45" selection-end-line="575" selection-end-column="45" />
           </first_editor>
           <second_editor />
         </state>
