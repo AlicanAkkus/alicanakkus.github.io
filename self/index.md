@@ -4,6 +4,12 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**9 Mart 2019 - 17:45**
+
+_gez ve kimseye söyleme; gerçek bir aşk hikayesi yaşa, kimseye söyleme. mutlu ol, kimseye söyleme; insanlar güzel şeyleri mahveder._
+
+~ halil cibran
+
 **26 şubat 2019 - 21:50**
 
 _bir kadının yüzüne bakıp sarhoş olacağımı hiç düşünmemiştim._
