@@ -844,181 +844,253 @@ _uzun mesafelere ulaşmak, yakın mesafeleri aşmakla mümkündür._
 
 ~ i̇mam gazâlî
 
-<a href="#19mart2015">19 mart 2015</a>
+---
+**19 mart 2015**
 
-> her an karanlığını giyinecek gibisin.
+_her an karanlığını giyinecek gibisin._
+
 ~ cahit zarifoğlu
 
-<a href="#8mart2015">8 mart 2015</a>
+---
+**8 mart 2015**
 
-> bize ağır gelen kendimiziz.
+_bize ağır gelen kendimiziz._
+
 ~ cahit zarifoğlu
 
-<a href="#4mart2015">4 mart 2015</a>
+---
+**4 mart 2015**
 
-> i̇nsanlık ince işçilik ister.
+_i̇nsanlık ince işçilik ister._
+
 ~ i̇brahim tenekeci
 
-<a href="#2mart2015">2 mart 2015</a>
+---
+**2 mart 2015**
 
-> üç kez öfkelendiği halde sana kötü söz söylemeyen dostu, kaybetme!
+_üç kez öfkelendiği halde sana kötü söz söylemeyen dostu, kaybetme!_
+
 ~ câfer-i sadık(k.s)
 
-<a href="#15sub2015">15 şubat 2015</a>
+---
+**15 şubat 2015**
 
-> kadınların gülümsemediği bir ülkenin, erkekleri cesur olamaz.
+_kadınların gülümsemediği bir ülkenin, erkekleri cesur olamaz._
+
 ~ murat menteş
 
-<a href="#10sub2015">10 şubat 2015</a>
+---
+**10 şubat 2015**
 
-> i̇lk işim. tübitak/gebze/martek/32bit bilgisayar hizmetleri
-allah utandırmasın.
+_i̇lk işim. tübitak/gebze/martek/32bit bilgisayar hizmetleri. allah utandırmasın._
 
-~ a.akkus
+~ alican akkus
 
-<a href="#8sub2014">8 şubat 2015</a>
+---
+**8 şubat 2015**
 
-> sorumluluğunu taşıyabileceğin düşüncenin insanı ol.
+_sorumluluğunu taşıyabileceğin düşüncenin insanı ol._
+
 ~ ahmet hamdi tanpınar
 
-<a href="#4sub22015">4 şubat 2015</a>
+---
+**4 şubat 2015**
 
-> sana allah'ı hatırlatacak bir arkadaş bulunca ona sımsıkı sarıl, ondan ayrılma, onu küçümseme onu kendin için bir devlet bil... böyle kimseler mü'min için bir ganimettir.
+_sana allah'ı hatırlatacak bir arkadaş bulunca ona sımsıkı sarıl, ondan ayrılma, onu küçümseme onu kendin için bir devlet bil... böyle kimseler mü'min için bir ganimettir._
+
 ~ i̇mam gazali
 
-<a href="#4sub2015">4 şubat 2015</a>
+---
+**4 şubat 2015**
 
-<p>bu dünya soğuk. rüzgar genelde ters yöne eser.
-limon ağaçları kurur. bahaneler hep hazır.
-güzel günler çabuk geçer..</p>
+_bu dünya soğuk. rüzgar genelde ters yöne eser._
+
+_limon ağaçları kurur. bahaneler hep hazır._
+
+_güzel günler çabuk geçer._
+
 ~ cahit zarifoğlu
 
-<a href="#31ara2014">31 aralık 2014</a>
+---
+**31 aralık 2014**
 
-<p>'yılbaşının sence hiçbir hususiyeti yok mudur'' diye sordum.
-''hayır'' dedi. ''senenin diğer günlerinden ne farkı var sanki?
-tabiat onu her hangi bir şekilde ayırmış mı? ömrümüzden bir sene geçtiğini göstermesi bile o kadar mühim değil; çünkü ömrümüzü senelere ayırmak da insanların uydurması.
-i̇nsan ömrü doğumdan ölüme uzanan tek bir yoldan ibarettir ve bunun üzerinde yapılan her türlü taksimat sunidir..''</p>
+_'yılbaşının sence hiçbir hususiyeti yok mudur?' diye sordum._
+
+_'hayır' dedi. senenin diğer günlerinden ne farkı var sanki?_
+
+_tabiat onu her hangi bir şekilde ayırmış mı? ömrümüzden bir sene geçtiğini göstermesi bile o kadar mühim değil; çünkü ömrümüzü senelere ayırmak da insanların uydurması._
+
+_i̇nsan ömrü doğumdan ölüme uzanan tek bir yoldan ibarettir ve bunun üzerinde yapılan her türlü taksimat sunidir..''</p>_
+
 ~ sabahattin ali
 
-<a href="#23ara2014">23 aralık 2014</a>
+---
+**23 aralık 2014**
 
-> hayat, eli sopalı bir öğretmen.
+_hayat, eli sopalı bir öğretmen._
+
 ~ kafkef
 
-<a href="#17ara2014">17 aralık 2014</a>
+---
+**17 aralık 2014**
 
-> şu küçücük kalpte nice hakkın yüklü.
+_şu küçücük kalpte nice hakkın yüklü._
+
 ~ cahit zarifoğlu
 
-<a href="#10ara2014">10 aralık 2014</a>
+---
+**10 aralık 2014**
 
-> çay içerek bile mutlu olmayı başarmalı insan.
+_çay içerek bile mutlu olmayı başarmalı insan._
+
 ~ prof. dr. nevzat tarhan
 
-<a href="#18kas2014">18 kasım 2014</a>
+---
+**18 kasım 2014**
 
-> hadi göğe bakalım.
+_hadi göğe bakalım._
+
 ~ turgut uyar
 
-<a href="#3kas2014">3 kasım 2014</a>
+---
+**3 kasım 2014**
 
-> bir kez kaçar uçurtman, sonra gökyüzüne küser insan.
+_bir kez kaçar uçurtman, sonra gökyüzüne küser insan._
+
 ~ hermann hesse
 
-<a href="#30ekim2014">30 ekim 2014</a>
+---
+**30 ekim 2014**
 
-> allah'ın sevgisine erişeceğin yerlerde bulunmak, hayatın değerini bilmektir.
+_allah'ın sevgisine erişeceğin yerlerde bulunmak, hayatın değerini bilmektir._
+
 ~ i̇bn ataullah el- i̇skenderî
 
-<a href="#25ekim2014">25 ekim 2014</a>
+---
+**25 ekim 2014**
 
-> scala is also a functional language in the sense that every function is a value and because every value is an object so ultimately every function is an object.
+_scala is also a functional language in the sense that every function is a value and because every value is an object so ultimately every function is an object._
 
-<a href="#23ekim2014">23 ekim 2014</a>
+---
+**23 ekim 2014**
 
-> aylar sonra ilk defa gözlerim bir işe yarayacak seni görerek.
+_aylar sonra ilk defa gözlerim bir işe yarayacak seni görerek._
+
 ~ franz kafka
 
-<a href="#18ekim2014">18 ekim 2014</a>
+---
+**18 ekim 2014**
 
-> "beni görmedikleri halde bana iman eden kardeşlerimi görmeyi çok isterdim."
+_"beni görmedikleri halde bana iman eden kardeşlerimi görmeyi çok isterdim."_
+
 ~ hz.muhammed(s.a.v)
 
-<a href="#17ekim2014">17 ekim 2014</a>
+---
+**17 ekim 2014**
 
-> “eğer siz, benim bildiklerimi bilseydiniz, mutlaka az güler, çok ağlardınız.”
+_“eğer siz, benim bildiklerimi bilseydiniz, mutlaka az güler, çok ağlardınız.”_
+
 ~ hadis-i şerif
 
-<a href="#7ekim2014">7 ekim 2014</a>
+---
+**7 ekim 2014**
 
-> i̇nsanı insan yapan duyguların ilkidir aşk.
-bir kişiyi seven, bütün insanları sever.
+_i̇nsanı insan yapan duyguların ilkidir aşk._
+
+_bir kişiyi seven, bütün insanları sever._
+
 ~ necati cumalı
 
-<a href="#5ekim2014">5 ekim 2014</a>
+---
+**5 ekim 2014**
 
-> acaba bunlar neden yaşıyorlar? yaşamakta ne buluyorlar?
-hangi mantık, hangi hikmet bunların yeryüzünde dolaşıp nefes almalarını emrediyor?
+_acaba bunlar neden yaşıyorlar? yaşamakta ne buluyorlar?_
+
+_hangi mantık, hangi hikmet bunların yeryüzünde dolaşıp nefes almalarını emrediyor?_
+
 ~ sabahattin ali
 
-<a href="#1ekim2014">1 ekim 2014</a>
+---
+**1 ekim 2014**
 
-> her nasip için ayrı bir rahmet şekillenir.
+_her nasip için ayrı bir rahmet şekillenir._
+
 ~ cahit zarifoğlu
 
-<a href="#17eyl2014">17 eylül 2014</a>
+---
+**17 eylül 2014**
 
-> ve giderek bütün gençleri saran bir gırgır furyası, bir gevezelik, malayanilik, bir seviyesizlik..
+_ve giderek bütün gençleri saran bir gırgır furyası, bir gevezelik, malayanilik, bir seviyesizlik.._
+
 ~ cahit zarifoğlu
 
-<a href="#14eyl2014">14 eylül 2014</a>
+---
+**14 eylül 2014**
 
-> ...rabbini hamd ile tesbih et. güneşin doğuşundan önce de , batışından sonra da , gece saatlerinde de , gündüzün etrafında da.. tâ ki rızaya eresin.
+_...rabbini hamd ile tesbih et. güneşin doğuşundan önce de , batışından sonra da , gece saatlerinde de , gündüzün etrafında da.. tâ ki rızaya eresin._
+
 ~ taha, 130
 
-<a href="#9eyl2014">9 eylül 2014</a>
+---
+**9 eylül 2014**
 
-> sen hep gül ,
-öylece kal ,
-i̇zlemek seni ,
-düşlerin en güzeli.
+_sen hep gül,_
+
+_öylece kal ,_
+
+_i̇zlemek seni ,_
+
+_düşlerin en güzeli._
+
 ~ cahit zarifoğlu
 
-<a href="#30agu2014">30 ağustos 2014</a>
+---
+**30 ağustos 2014**
 
-> i̇nsanların çoğu bilmezler; " hiçbir aşk yoktur ki allah’ın rızası olmadan bir anlam ifade etsin.. "
+_i̇nsanların çoğu bilmezler; " hiçbir aşk yoktur ki allah’ın rızası olmadan bir anlam ifade etsin.. "_
+
 ~ kurtuluş aybirdi
 
-<a href="#29agu2014">29 ağustos 2014</a>
+---
+**29 ağustos 2014**
 
-> kibir taşıyan kafada akla rastlayamazsınız.
+_kibir taşıyan kafada akla rastlayamazsınız._
+
 ~ ahmet i̇bni hanbel(r.a)
 
-<a href="#10agu2014">20 ağustos 2014</a>
+---
+**20 ağustos 2014**
 
-> unutma , problemler küçük insanlarin şevkini kırar , büyük insanların ise azmini arttırır.
+_unutma, problemler küçük insanlarin şevkini kırar, büyük insanların ise azmini arttırır._
+
 ~ zübeyir gündüzalp
 
-<a href="#29tem2014">29 temmuz 2014</a>
+---
+**29 temmuz 2014**
 
-> dertle anlaş deva bul,üzüntü kalbi sömürür.
+_dertle anlaş deva bul,üzüntü kalbi sömürür._
+
 ~ kafkef
 
-<a href="#6tem2014">6 temmuz 2014</a>
+---
+**6 temmuz 2014**
 
-> ..."sırdır ki gizli gerektir, sevgilinin adını dile düşürmek hakikatte ayıptır.
+_..."sırdır ki gizli gerektir, sevgilinin adını dile düşürmek hakikatte ayıptır.
 kays bir dağ delisi gibi davrandı, gitti sahralarda çöllerde aşkımız ona buna anlattı, ben kimseciklerle paylaşmadım onun sevgisini, içimde büyüttüm, büyüttüm, büyüttüm...
-budur ki benim onu daha çok sevdiğime delildir.“
+budur ki benim onu daha çok sevdiğime delildir.“_
+
 ~ iskender pala
 
-<a href="#30haz2014">30 haziran 2014</a>
+---
+**30 haziran 2014**
 
-> sevmeyi bilen adamlara acı çektirmeyin ,
-sonra şiir yazıyorlar , hepimiz dertleniyoruz ..
+_sevmeyi bilen adamlara acı çektirmeyin,
+sonra şiir yazıyorlar, hepimiz dertleniyoruz._
 ~ serdar tuncer
 
-<a href="#4haz2014">4 haziran 2014</a>
+---
+**4 haziran 2014**
 
-> eğer c++ dilinin gereğinden fazla kamaşık olmadığını düşünüyorsanız bana " protected abstract virtual base pure virtual private destructor" ın ne olduğunu söyleyin.
+_eğer c++ dilinin gereğinden fazla kamaşık olmadığını düşünüyorsanız bana " protected abstract virtual base pure virtual private destructor" ın ne olduğunu söyleyin._
+
 ~ tom cargill.

@@ -38,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/self/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="346">
-                <caret line="575" column="45" selection-start-line="575" selection-start-column="45" selection-end-line="575" selection-end-column="45" />
+              <first_editor relative-caret-position="548">
+                <caret line="1093" column="166" selection-start-line="1093" selection-start-column="166" selection-end-line="1093" selection-end-column="166" />
               </first_editor>
               <second_editor />
             </state>
@@ -126,12 +126,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1552137801988</updated>
-      <workItem from="1552137806360" duration="3249000" />
+      <workItem from="1552137806360" duration="4311000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3249000" />
+    <option name="totallyTimeSpent" value="4311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
@@ -174,8 +174,8 @@
     <entry file="file://$PROJECT_DIR$/self/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="346">
-            <caret line="575" column="45" selection-start-line="575" selection-start-column="45" selection-end-line="575" selection-end-column="45" />
+          <first_editor relative-caret-position="548">
+            <caret line="1093" column="166" selection-start-line="1093" selection-start-column="166" selection-end-line="1093" selection-end-column="166" />
           </first_editor>
           <second_editor />
         </state>
