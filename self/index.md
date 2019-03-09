@@ -1,841 +1,824 @@
 ---
-layout: page
-title: Hal-i Cünunum
-heading: Hal-i Cünunum
+layout: post
+title: hal-i cünunum
+heading: hal-i cünunum
 ---
 
-<a href="#26Feb2019">26 Şubat 2019 - 21:50</a>
-<p id="26Feb2019">
-  bir kadının yüzüne bakıp sarhoş olacağımı hiç düşünmemiştim.
+**26 şubat 2019 - 21:50**
+
+_bir kadının yüzüne bakıp sarhoş olacağımı hiç düşünmemiştim._
+
+~ jack london
+
+---
+**22 şubat 2019 - 23:15**
+
+_insan tahammül edemeyeceğini zannettiği şeylere pek çabuk alışıyor ve katlanıyor._
+
+~ sabahattin ali
+
+---
+**07 şubat 2019 - 22:05**
+
+_üç de çocuğu vardı. celil abi öldü dediler. biz de öldük._
+
+---
+**04 şubat 2019 - 23:05**
+
+_semtimizin bir tanesiydin müjgan._
+
+_saçları sırtına kadar sırma sırma dökülür, elleri ufacık, gözleri dört defa lacivertti._
+
+_ve de her ne hikmetse o da bana gönüllüydü._
+
+---
+**03 şubat 2019 - 17:56**
+
+_ne kaldı bak ellerimde._
+
+_biliyorum gülüyorsun._
+
+_her adımımda derine._
+
+_ölüyorum.._
   
-  ~ jack london
-</p>
+~ hayko cepkin
 
-<a href="#22Feb2019">22 Şubat 2019 - 23:15</a>
-<p id="22Feb2019">
-  İnsan tahammül edemeyeceğini zannettiği şeylere pek çabuk alışıyor ve katlanıyor.
+---
+**30 ocak 2019 - 22:17**
+
+_gizlice düşündüğüm, fark edilmesinden korktuğum hakikat sen miydin?_
+
+~ cahit zarifoğlu
+
+---
+**28 ocak 2019 - 22:20**
+
+_"ben fena kız değilim, senin meyus olmayıp saadetin için hayatımı şimdi fedaya hazırım." diyorsun. aliye, bana böyle şeyler yazma..._
+
+_sonra ben sana deli gibi aşık olurum. mektubundaki "beni istediğim kadar sevmezsen ölürüm” cümlesini belki elli defa okudum._ 
+
+_ah aliye, seni isteyebileceğinden çok seveceğim._
+
+_etrafın seni sıktığı zaman kitap oku… ben şimdiye kadar her şeyden çok kitaplarımı severdim. bundan sonra her şeyden çok seni seveceğim ve kitapları beraber seveceğiz. insan muhitin bayağı, manasız, soğuk tesirlerinden kurtulmak istediği zaman yalnız okumak fayda verir. bana en felaketli günlerimde kitaplarım arkadaş oldu fakat bu yetmiyor. şiirlerimde de gördün ki, kitaplara rağmen çok ıstırap çektim çünkü candan bir insanım yoktu. sen benim yarım kalan tarafımı ikmâl edeceksin. uzun, çok uzun şeyler yaz. seni hasretle kucaklarım benim birtanecik aliye'm._
+
+_küçük resim öyle gözümü yumup bakacak gibi fena değildi. sen en fena resimde bile güzelsin aliye. sen her zaman herkesten güzelsin..._
+
+~ sabahattin ali
+
+---
+**28 ocak 2019 - 12:38**
+
+_kendinin bile ücrasında yaşayan, benim için gidecek yer ne kadar uzak olabilir?_
+
+~ ismet özel
+
+___
+**14 ocak 2019 - 23:05**
+
+_eğer yeryüzünde ki bütün elleri bir masanın üstüne koysalar, elini bulabilirdim onların içinden._
+
+~ ali ural
+
+___
+**11 ocak 2019 - 22:20**
+
+_özgürlüğü ve huzuru buldum meczupluğumda; yanlızlığın özgürlüğünü ve anlaşılmamış olmanın huzurunu._
   
-  ~ Sabahattin Ali
-</p>
+_çünkü bizi anlayanlar içimizde bir şeye de egemen olurlar._
 
-<a href="#07Feb2019">07 Şubat 2019 - 22:05</a>
-<p id="07Feb2019">
-  Üç de çocuğu vardı. Celil abi öldü dediler. Biz de öldük.
-</p>
+~ halil cibran / meczup
 
-<a href="#04Feb2019">04 Şubat 2019 - 23:05</a>
-<p id="04Feb2019">
-  Semtimizin bir tanesiydin Müjgan.
+---
+**31 aralık 2018 - 00:00**
+
+_sen bana yeni yılsın her dakika._
   
-  Saçları sırtına kadar sırma sırma dökülür, elleri ufacık, gözleri dört defa lacivertti.
+_her dakika yeni bir yaşıma giriyorum._
+
+---
+**21 aralık 2018 - 23:15**
+
+_aklımda hep canparem var_
   
-  Ve de her ne hikmetse o da bana gönüllüydü.
-  
-</p>
+_dakikamı yıllar anlar_
 
-<a href="#03Feb2019">03 Şubat 2019 - 17:56</a>
-<p id="03Feb2019">
-  Ne kaldı bak ellerimde.
-  
-  Biliyorum gülüyorsun.
-  
-  Her adımımda derine.
-  
-  Ölüyorum..
-  
-  ~ Hayko Cepkin
-</p>
+_geç kalamam pir'im bekler_
 
-<a href="#30Jan2019">30 Ocak 2019 - 22:17</a>
-<p id="30Jan2019">
-Gizlice düşündüğüm, fark edilmesinden korktuğum hakikat sen miydin?
+_ay efendim can efendim_
 
-~ Cahit Zarifoğlu
-</p>
+_düştüm dara bul efendim_
 
-<a href="#28Jan2019">28 Ocak 2019 - 22:20</a>
-<p id="28Jan2019">
-"Ben fena kız değilim, senin meyus olmayıp saadetin için hayatımı şimdi fedaya hazırım." diyorsun. Aliye, bana böyle şeyler yazma... Sonra ben sana deli gibi aşık olurum. Mektubundaki “Beni istediğim kadar sevmezsen ölürüm” cümlesini belki elli defa okudum. 
-Ah Aliye, seni isteyebileceğinden çok seveceğim.
-Etrafın seni sıktığı zaman kitap oku… Ben şimdiye kadar her şeyden çok kitaplarımı severdim. Bundan sonra her şeyden çok seni seveceğim ve kitapları beraber seveceğiz. İnsan muhitin bayağı, manasız, soğuk tesirlerinden kurtulmak istediği zaman yalnız okumak fayda verir. Bana en felaketli günlerimde kitaplarım arkadaş oldu fakat bu yetmiyor. Şiirlerimde de gördün ki, kitaplara rağmen çok ıstırap çektim çünkü candan bir insanım yoktu. Sen benim yarım kalan tarafımı ikmâl edeceksin. Uzun, çok uzun şeyler yaz. Seni hasretle kucaklarım benim birtanecik Aliye'm.
-Küçük resim öyle gözümü yumup bakacak gibi fena değildi. Sen en fena resimde bile güzelsin Aliye. Sen her zaman herkesten güzelsin...
+~ kaan boşnak
 
+---
+**15 aralık 2018 - 14:45**
 
-~ Sabahattin Ali
-</p>
+_söyle gece saçlı kadın;_
 
+_saçlarının rengini sevdandan mı,kaderden mi aldın?_
 
-<a href="#28Jan2019">28 Ocak 2019 - 12:38</a>
-<p id="28Jan2019">
+_hayatı milyona bölüp nasıl tek parça halinde nefes aldın?_
 
-Kendinin bile ücrasında yaşayan, benim için gidecek yer ne kadar uzak olabilir?
+_aynaya sırtını dönüp kendine bu kaş çatmaların neden?_
 
-~ İsmet Özel
-</p>
+_sevinçlerini, coşkularını hangi örümcek ağına kaptırdın?_
 
-<a href="#14Jan2019">14 Ocak 2019 - 23:05</a>
-<p id="14Jan2019">
+_kaç gece ölüm provasına cellatın kollarında yattın?_
 
-Eğer yeryüzünde ki bütün elleri bir masanın üstüne koysalar, elini bulabilirdim onların içinden.
+**08 aralık 2018 - 22:05**
 
-~ Ali Ural
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9cZ67MVmOM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+~ kaan boşnak
 
-<a href="#11Jan2019">11 Ocak 2019 - 22:20</a>
-<p id="11Jan2019">
-Özgürlüğü ve huzuru buldum meczupluğumda; yanlızlığın özgürlüğünü ve anlaşılmamış olmanın huzurunu.
-  
-Çünkü bizi anlayanlar içimizde bir şeye de egemen olurlar.
+---
+**08 aralık 2018 - 16:30**
 
-~ Halil Cibran / Meczup
-</p>
+_bir aleme indim yalnız,_ 
+_yerde toprak, gökte yıldız._ 
+_bir yan susuz bir yan deniz._ 
+_i̇ki el, bir baş verdiler,_ 
+_bir çift göz ağlar da güler._ 
+_dört bir yanda benim gibiler._ 
+_doğru söz içinmiş diller,_ 
+_i̇şte kalbin sev dediler._ 
+_bana yalan söylediler,_ 
+_bana yalan söylediler;_ 
+_kaderden bahsetmediler._ 
+_varsın böyle geçsin ömrüm,_ 
+_neşeyle dolsun bari her günüm._ 
+_hani benim sevdiklerim?_ 
+_hani gönül verdiklerim?_ 
+_hasret çeker, ben giderim._
 
-<a href="#31Dec2018">31 Aralık 2018 - 00:00</a>
-<p id="31Dec2018">
-Sen bana yeni yılsın her dakika.
-  
-Her dakika yeni bir yaşıma giriyorum.
-</p>
+---
+**02 aralık 2018 - 18:30**
 
-<a href="#21Dec2018">21 Aralık 2018 - 23:15</a>
-<p id="21Dec2018">
-aklımda hep canparem var
-  
-dakikamı yıllar anlar
+_insan eğer aşık olmazsa çabuk yaşlanır ve gençlik sefasını elden verir. eğer aklı olmazsa geç büyür ve çocukluk cehaletinde kalır_
+_gereksiz aşk aklı alır ve gereksiz akıl aşkı yok eder. gereksiz akıl daima dünyayı düşünen akıldır ve gereksiz aşk allah'tan başkasını sevmektir._
 
-geç kalamam pir'im bekler
+~ ali rıza penahiyan
 
-ay efendim can efendim 
+---
+**28 kasım 2018 - 22:43**
 
-düştüm dara bul efendim
+_düşüncelerim hep onun etrafında dönüp dolaşıyordu._
 
-~ Kaan Boşnak
-</p>
+~ sabahattin ali
 
-<a href="#15Dec2018">15 Aralık 2018 - 14:45</a>
-<p id="15Dec2018">
-Söyle gece saçlı kadın;
+---
+**18 kasım 2018 - 18:38**
 
-Saçlarının rengini sevdandan mı,kaderden mi aldın?
+_bir kadının bize her şeyini verdiğini zannettiğimiz anda onun hakikatte bize hiçbir şey vermiş olmadığını görmek, bize en yakın olduğunu sandığımız sırada bizden, bütün mesafelerin ötesindeymiş kadar uzak bulunduğunu kabule mecbur olmak acı bir şey._
 
-Hayatı milyona bölüp nasıl tek parça halinde nefes aldın?
+~ sabahattin ali
 
-Aynaya sırtını dönüp kendine bu kaş çatmaların neden?
+---
+**12 kasım 2018 - 20:40**
 
-Sevinçlerini, coşkularını hangi örümcek ağına kaptırdın?
+_fil şirindir ama onca sineğin başını ezendir, bil!_
+_ben humusla rahat uyurken, seni saracak kil, bil._
 
-Kaç gece ölüm provasına cellatın kollarında yattın?
-</p>
-
-<a href="#08Dec2018">08 Aralık 2018 - 22:05</a>
-<iframe width="550" height="385" id="08Dec2018" src="https://www.youtube.com/embed/p9cZ67MVmOM"></iframe>
-
-~ Kaan Boşnak
-
-<a href="#08Dec2018">08 Aralık 2018 - 16:30</a>
-<p id="08Dec2018">
-Bir aleme indim yalnız, 
-Yerde toprak, gökte yıldız. 
-Bir yan susuz bir yan deniz. 
-İki el, bir baş verdiler, 
-Bir çift göz ağlar da güler. 
-Dört bir yanda benim gibiler. 
-Doğru söz içinmiş diller, 
-İşte kalbin sev dediler. 
-Bana yalan söylediler, 
-Bana yalan söylediler; 
-Kaderden bahsetmediler. 
-Varsın böyle geçsin ömrüm, 
-Neşeyle dolsun bari her günüm. 
-Hani benim sevdiklerim? 
-Hani gönül verdiklerim? 
-Hasret çeker, ben giderim.</p>
-~ ??
-
-<a href="#02Dec2018">02 Aralık 2018 - 18:30</a>
-<p id="02Dec2018">Insan eğer aşık olmazsa çabuk yaşlanır ve gençlik sefasını elden verir. Eğer aklı olmazsa geç büyür ve çocukluk cehaletinde kalır. Gereksiz aşk aklı alır ve gereksiz akıl aşkı yok eder. Gereksiz akıl daima dünyayı düşünen akıldır ve gereksiz aşk Allah'tan başkasını sevmektir.</p>
-~ Ali Rıza Penahiyan
-
-<a href="#28Nov2018">28 Kasım 2018 - 22:43</a>
-<p id="28Nov2018">Düşüncelerim hep onun etrafında dönüp dolaşıyordu.</p>
-~ S.Ali
-
-<a href="#18Nov2018">18 Kasım 2018 - 18:38</a>
-<p id="18Nov2018">Bir kadının bize her şeyini verdiğini zannettiğimiz anda onun hakikatte bize hiçbir şey vermiş olmadığını görmek, bize en yakın olduğunu sandığımız sırada bizden, bütün mesafelerin ötesindeymiş kadar uzak bulunduğunu kabule mecbur olmak acı bir şey.</p>
-~ S.Ali
-
-<a href="#12Nov2018">12 Kasım 2018 - 20:40</a>
-<p id="12Nov2018">Fil şirindir ama onca sineğin başını ezendir, bil!
-Ben humusla rahat uyurken, seni saracak kil, bil</p>
 ~ kafkef
 
-<a href="#09Nov2018">9 Kasım 2018 - 21:15</a>
-<p id="09Nov2018">Demek ki insanlar birbirine ancak muayyen bir hadde kadar yaklaşabiliyorlar ve ondan sonra, daha fazla sokulmak için atılan her adım daha çok uzaklaştırıyor.</p>
-~ S.Ali
+---
+**9 kasım 2018 - 21:15**
 
-<a href="#20Aug2017">20 Ağustos 2017 - 17:30</a>
-<p id="20Aug2017">Ben ona sabah olamasam da dingin bir ikindi olayım istemişimdir.</p>
-~ Şükrü Erbaş
+_demek ki insanlar birbirine ancak muayyen bir hadde kadar yaklaşabiliyorlar ve ondan sonra, daha fazla sokulmak için atılan her adım daha çok uzaklaştırıyor._
 
-<a href="#23Marc2017">23 Mart 2017 - 21:50</a>
-<p id="23Marc2017">Gözler terk edilen şeylerle doludur.</p>
-~ Lale Müldür
+~ sabahattin ali
 
-<a href="#20Marc2017">20 Mart 2017 - 01:15</a>
-<p id="20Marc2017">İçine çekildiğim dünya, dışımda bıraktığım dünyadan öyle güzel, öyle gerçek ki.</p>
-~ Nazan Bekiroğlu
+---
+**20 ağustos 2017 - 17:30**
 
-<a href="#7Now2016">7 Kasım 2016 - 22:05</a>
-<p id="7Now2016">Neşeli müzikler besteleyemiyorum, ne yapsam insan olmanın hüznü çıkıyor ortaya, biz sizi eğlendiremeyiz, sadece eyleriz.</p>
-~ Erkan Oğur
-<iframe width="550" height="385" id="7Now2016" src="https://www.youtube.com/embed/gAElM_w0vls"></iframe>
+_ben ona sabah olamasam da dingin bir ikindi olayım istemişimdir._
 
+~ şükrü erbaş
 
-<a href="#18Oct2016">18 Ekim 2016 - 16:30</a>
-<p id="18Oct2016">Gök çoğalınca,
-Göğe açılan göz kapanınca,
-Beni duyacak anlamayacaksın.</p>
-~ Cahit Zarifoğlu
+---
+**23 mart 2017 - 21:50**
 
-<a href="#29Sem2016">29 Eylül 2016 - 08:30</a>
-<p id="29Sem2016">bu çılgın eğlentinin karşıtı bir yürek,
-hangi kuşun sesinde dinlensin.</p>
-~ Nilgün Marmara
+_gözler terk edilen şeylerle doludur._
 
-<a href="#16Sem2016">16 Eylül 2016 - 19:30</a>
-> Mehmet Güreli - Kimse Bilmez
-<iframe width="550" height="385" id="16Sem2016" src="https://www.youtube.com/embed/PHo5U9Rios0"></iframe>
+~ lale müldür
 
+---
+**20 mart 2017 - 01:15**
 
-<a href="#6Sem2016">6 Eylül 2016 - 00:00</a>
-<p id="6Sem2016">Annem tanısa seni kesin çok severdi.
-Bana kalırsa seni bütün dünya çok sever,
-Ben de seni çok severim ama şu an konu bu değil.</p>
-~ Ali Lidar
+_içine çekildiğim dünya, dışımda bıraktığım dünyadan öyle güzel, öyle gerçek ki._
 
-<a href="#1Sem2016">1 Eylül 2016 - 00:00</a>
+~ nazan bekiroğlu
 
-> Son Feci Bisiklet - Bu Kız
+---
+**7 kasım 2016 - 22:05**
 
-Bu kız beni sever,
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gAElM_w0vls" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Bu kız beni öldürür,
+_neşeli müzikler besteleyemiyorum, ne yapsam insan olmanın hüznü çıkıyor ortaya, biz sizi eğlendiremeyiz, sadece eyleriz._
 
-Bu kız bana güzel hayaller gördürür,
+~ erkan oğur
 
-Bu kız beni tutar,
+---
+**18 ekim 2016 - 16:30**
 
-Ve kendine çeker.
+_gök çoğalınca,_
 
-Bu kızla bana bir oda bir yatak bi kütüphane yeter,
+_göğe açılan göz kapanınca,_
 
-Belli ki bi sır vardı onun sesinde,
+_beni duyacak anlamayacaksın._
 
-Her düşündüğümde onu beyaz elbisesinde,
+~ cahit zarifoğlu
 
-Bela bulur beni,
+---
+**29 eylül 2016 - 08:30**
 
-Ve uyku kaybolur gibi.
+_bu çılgın eğlentinin karşıtı bir yürek, hangi kuşun sesinde dinlensin._
 
-Bu kız beni görünce gülümser,
+~ nilgün marmara
 
-Bu kız beni sever,
+---
+**16 eylül 2016 - 19:30**
+<iframe src="https://www.youtube.com/embed/pho5u9rios0"></iframe>
 
-Bu kız beni öldürür,
+~ mehmet güreli - kimse bilmez
 
-Bu kız bana güzel hayaller gördürür,
+---
+**6 eylül 2016 - 00:00**
 
-Bu kız bana güzel,
+_annem tanısa seni kesin çok severdi._
 
-Yalanlar söyletir.
+_bana kalırsa seni bütün dünya çok sever, ben de seni çok severim ama şu an konu bu değil._
 
-Bu kız bana yeni bi takım şeyler öğretir,
+~ ali lidar
 
-Her gece,
+---
+**1 eylül 2016 - 00:00**
+<iframe src="https://www.youtube.com/embed/1_0ec694fnm"></iframe>
 
-Yalpalayaraktan giderim kapısına.
+~ son feci bisiklet - bu kız
 
-Biliyorum saat çok geç,
+---
+**13 ağustos 2016 - 13:30**
 
-Ama yine de beni suçlama bebek,
+_ama şunu biliyorum ki o birbirine benzeyen günlerin içine sızan her şeyde biraz sen varsın._
 
-Sevişmek ne demek,
+~ ali lidar
 
-Çizgi filmler mi izlesek?
+---
+**10 temmuz 2016 - 22:00**
 
-Hiç bir yere de gitmesek,
-
-Kimseleri görmesek,
-
-Ama açlıktan da ölmesek iyi,
-
-Belli ki bi sır vardı onun sesinde,
-
-Her düşündüğümde onu beyaz elbisesinde,
-
-Bela bulur beni,
-
-Ve uyku kaybolur gibi.
-
-Bu kız
-
-Bu kız
-
-Bu kız
-
-Söz-Müzik: Arda Kemirgent
-
-<iframe width="550" height="385" src="https://www.youtube.com/embed/1_0Ec694FNM"></iframe>
-
-<a href="#13Agu2016">13 Ağustos 2016 - 13:30</a>
-<p id="13Agu2016">Ama şunu biliyorum ki o birbirine benzeyen günlerin içine sızan her şeyde biraz sen varsın.</p>
-~ Ali Lidar
-
-
-<a href="#10Jul2016">10 Temmuz 2016 - 22:00</a>
-<p id="10Jul2016">
-assuman: beni artık sevmiyorsun, öyle mi?
-mükremin: ya seni seviyorum da, seni sevmeyi eskisi kadar sevemiyorum..
+_assuman: beni artık sevmiyorsun, öyle mi?_
+_mükremin: ya seni seviyorum da, seni sevmeyi eskisi kadar sevemiyorum..
 hani eskiden seni sevmenin, birbirimizi sevmenin, yeşil gevrek bir tadı vardı. seni güldürmenin lezzeti damağıma yerleşir, orada mutlu mesut yaşardı..  
-yani bişey olduğu vakit, ilk bunu koşayım gideyim, assuman'a söyleyeyim tarzında bir haberci telaşı olurdu.
-assuman: şimdi n'oldu peki?
-mükremin: bilmiyorum assuman, bilmiyorum.. kalbim bir kuyunun dibindeki suyun içinde nefes almaya çalışan bir gariban.yukarı tırmanmaya çalışıyor..ama ne yapsın? kuyunun duvarları düz..kuyunun duvarları ıslak..</p>
-~ Bir Demet Tiyatro
+yani bişey olduğu vakit, ilk bunu koşayım gideyim, assuman'a söyleyeyim tarzında bir haberci telaşı olurdu._
 
+_assuman: şimdi n'oldu peki?_
 
-<a href="#10Jun2016">10 Haziran 2016 - 01:00</a>
-<p id="10Jun2016">Ölsem ayıptır, sussam tehlikeli, çok sevmeli öyleyse, çok söylemeli.</p>
-<iframe width="550" height="385" src="https://www.youtube.com/embed/r-LCLmHhjwU"></iframe>
+_mükremin: bilmiyorum assuman, bilmiyorum.. kalbim bir kuyunun dibindeki suyun içinde nefes almaya çalışan bir gariban.yukarı tırmanmaya çalışıyor.. ama ne yapsın? kuyunun duvarları düz.. kuyunun duvarları ıslak.._
 
-<a href="#02Jun2016">2 Haziran 2016 - 22:00</a>
-<p id="02Jun2016">Halbuki ne kadar saf, temiz bir yüzü var.</p>
-~ Sabahattin Ali
+~ bir demet tiyatro
 
-<a href="#30May2016">31 Mayıs 2016 - 23:45</a>
-<p id="30May2016">Gözlerine baktım ise ki bakmışımdır.
-Onlar bir denizi sezme derinliğindedir.</p>
-<iframe width="550" height="385" src="https://www.youtube.com/embed/7odXfJnqT9U"></iframe>
+---
+**10 haziran 2016 - 01:00**
 
-<a href="#16May2016">16 Mayıs 2016 - 21:15</a>
-<p id="16May2016">Yaşamın anlamı gece duyumsanır ve sorgulanır. Kimse bunu öğle yemeği sırasında tartışmaz. Yaşam gecenin konusudur.</p>
-~ Gündüz Vassaf
+<iframe src="https://www.youtube.com/embed/r-lclmhhjwu"></iframe>
+_ölsem ayıptır, sussam tehlikeli, çok sevmeli öyleyse, çok söylemeli._
 
-<a href="#11May2016">11 Mayıs 2016 - 00:05</a>
-<p id="11May2016">Vaktinde ediIememiş sevgi sözIeri, nefret zırhını kuşanır dönerken geri.</p>
-<iframe width="550" height="385" src="https://www.youtube.com/embed/jySSUCUbXLs">
+---
+**2 haziran 2016 - 22:00**
+
+_halbuki ne kadar saf, temiz bir yüzü var._
+
+~ sabahattin ali
+
+---
+**31 mayıs 2016 - 23:45**
+
+<iframe src="https://www.youtube.com/embed/7odxfjnqt9u"></iframe>
+_gözlerine baktım ise ki bakmışımdır._
+_onlar bir denizi sezme derinliğindedir._
+
+---
+<a href="#16may2016">16 mayıs 2016 - 21:15</a>
+<p id="16may2016">yaşamın anlamı gece duyumsanır ve sorgulanır. kimse bunu öğle yemeği sırasında tartışmaz. yaşam gecenin konusudur.</p>
+~ gündüz vassaf
+
+<a href="#11may2016">11 mayıs 2016 - 00:05</a>
+<p id="11may2016">vaktinde ediiememiş sevgi sözieri, nefret zırhını kuşanır dönerken geri.</p>
+<iframe width="550" height="385" src="https://www.youtube.com/embed/jyssucubxls">
 </iframe>
 
-<a href="#7May2016">7 Mayıs 2016 - 00:35</a>
-<p id="7May2016">Hiç ayrılmayalım demek vardı fakat bu pek geniş manalı ve müphemdi. Nasıl ayrılmayalım? Bir yuva kuralım deseler bu da pek bayağı kaçacaktı.</p>
-~ Sabahattin Ali
+<a href="#7may2016">7 mayıs 2016 - 00:35</a>
+<p id="7may2016">hiç ayrılmayalım demek vardı fakat bu pek geniş manalı ve müphemdi. nasıl ayrılmayalım? bir yuva kuralım deseler bu da pek bayağı kaçacaktı.</p>
+~ sabahattin ali
 
-<a href="#3May2016">3 Mayıs 2016 - 17:05</a>
+<a href="#3may2016">3 mayıs 2016 - 17:05</a>
 
-<p id="3May2016">
-Abbas
-Haydi Abbas, vakit tamam;
-Akşam diyordun işte oldu akşam.
-Kur bakalım çilingir soframızı;
-Dinsin artık bu kalb ağrısı.
-Şu ağacın gölgesinde olsun;
-Tam kenarında havuzun.
-Aya haber sal çıksın bu gece;
-Görünsün şöyle gönlümce.
-Bas kırbacı sihirli seccadeye,
-Göster hükmettiğini mesafeye
-Ve zamana.
-Katıp tozu dumana,
-Var git,
-Böyle ferman etti Cahit,
-Al getir ilk sevgiliyi Beşiktaş'tan;
-Yaşamak istiyorum gençliğimi yeni baştan.</p>
-~ Cahit Sıtkı Tarancı
+<p id="3may2016">
+abbas
+haydi abbas, vakit tamam;
+akşam diyordun işte oldu akşam.
+kur bakalım çilingir soframızı;
+dinsin artık bu kalb ağrısı.
+şu ağacın gölgesinde olsun;
+tam kenarında havuzun.
+aya haber sal çıksın bu gece;
+görünsün şöyle gönlümce.
+bas kırbacı sihirli seccadeye,
+göster hükmettiğini mesafeye
+ve zamana.
+katıp tozu dumana,
+var git,
+böyle ferman etti cahit,
+al getir ilk sevgiliyi beşiktaş'tan;
+yaşamak istiyorum gençliğimi yeni baştan.</p>
+~ cahit sıtkı tarancı
 
-<a href="#30Nis2016">30 Nisan 2016 - 23:15</a>
-<p id="30Nis2016">
-Kulağında karanfil,
-Teninde tarçın,
-Gözlerinde göç var.</p>
+<a href="#30nis2016">30 nisan 2016 - 23:15</a>
+<p id="30nis2016">
+kulağında karanfil,
+teninde tarçın,
+gözlerinde göç var.</p>
 
-<a href="#27Nis2016">27 Nisan 2016 - 08:55</a>
-<p id="27Nis2016">Bulamayacağım bir şeyi daima arıyor gibiyim.
-Nedir beni mesut edecek, ne gibi bir şeydir, onu da bilmiyorum.</p>
-~ Leyla Erbil
+<a href="#27nis2016">27 nisan 2016 - 08:55</a>
+<p id="27nis2016">bulamayacağım bir şeyi daima arıyor gibiyim.
+nedir beni mesut edecek, ne gibi bir şeydir, onu da bilmiyorum.</p>
+~ leyla erbil
 
-<a href="#19Nis2016">19 Nisan 2016 - 21:15</a>
-<p id="#19Nis2016">Desem ki vakitlerden bir nisan akşamıdır,
-Rüzgârların en ferahlatıcısı senden esiyor.</p>
-~ Cahit Sıtkı Tarancı
+<a href="#19nis2016">19 nisan 2016 - 21:15</a>
+<p id="#19nis2016">desem ki vakitlerden bir nisan akşamıdır,
+rüzgârların en ferahlatıcısı senden esiyor.</p>
+~ cahit sıtkı tarancı
 
-<a href="#08Nis2016">8 Nisan 2016 - 00:25</a>
+<a href="#08nis2016">8 nisan 2016 - 00:25</a>
 
-<p id="08Nis2016">Önce sesin gelir aklıma, çaresiz kaldıkça hep seni düşünürüm.</p>
-~ Turgut Uyar
+<p id="08nis2016">önce sesin gelir aklıma, çaresiz kaldıkça hep seni düşünürüm.</p>
+~ turgut uyar
 
-<a href="#03Nis2016">3 Nisan 2016 - 20:55</a>
-<p id="03Nis2016">Yatağına nasıl uzandığını, nasıl ağır ağır nefes aldığını tasavvur ediyor ve bunu görmekten daha büyük saadet olamayacağını düşünüyordum.</p>
-~ Sabahattin Ali
+<a href="#03nis2016">3 nisan 2016 - 20:55</a>
+<p id="03nis2016">yatağına nasıl uzandığını, nasıl ağır ağır nefes aldığını tasavvur ediyor ve bunu görmekten daha büyük saadet olamayacağını düşünüyordum.</p>
+~ sabahattin ali
 
-<a href="#02Nis2016">2 Nisan 2016 - 12:30</a>
-<p id="02Nis2016">Onunla beni, bizim iradelerimizin üstünde bir bağın bağladığına eminim.</p>
-~ Sabahattin Ali
+<a href="#02nis2016">2 nisan 2016 - 12:30</a>
+<p id="02nis2016">onunla beni, bizim iradelerimizin üstünde bir bağın bağladığına eminim.</p>
+~ sabahattin ali
 
-<a href="#25Mart2016">25 Mart 2016 - 23:20</a>
-<p id="25Mart2016">Günah ki en güzel kadındır, sizler güzele kanan,
-Tabiatın şeytan olacaksa yılan doğursun anan!</p>
+<a href="#25mart2016">25 mart 2016 - 23:20</a>
+<p id="25mart2016">günah ki en güzel kadındır, sizler güzele kanan,
+tabiatın şeytan olacaksa yılan doğursun anan!</p>
 ~ kafkef
 
-<a href="#23Mart2016">23 Mart 2016 - 00:10</a>
-<p id="23Mart2016">I. Hem biz seninle hiç dans etmedik, değil mi?
-II. Hayır etmedik
-I. Ben zaten dans etmekten fazla zevk almam, bazen dans ettiğim kimse hoşuma gider ve bu yüzden o sıkıntıya katlanırım.
-II. Bu iş için hoşuna gideceğimi tahmin etmem.
-I. Ben de tahmin etmem. Ama olsun, arkadaşlıkta fedakarlık lazımdır.</p>
-~ Sabahattin Ali / Kürk Mantolu Madonna
+<a href="#23mart2016">23 mart 2016 - 00:10</a>
+<p id="23mart2016">i. hem biz seninle hiç dans etmedik, değil mi?
+ii. hayır etmedik
+i. ben zaten dans etmekten fazla zevk almam, bazen dans ettiğim kimse hoşuma gider ve bu yüzden o sıkıntıya katlanırım.
+ii. bu iş için hoşuna gideceğimi tahmin etmem.
+i. ben de tahmin etmem. ama olsun, arkadaşlıkta fedakarlık lazımdır.</p>
+~ sabahattin ali / kürk mantolu madonna
 
-<a href="#16Mart2016">16 Mart 2016 - 23:30</a>
-<p id="16Mart2016">Bir deniz gibisin resimlerde.</p>
-~ Ahmet Aslan
+<a href="#16mart2016">16 mart 2016 - 23:30</a>
+<p id="16mart2016">bir deniz gibisin resimlerde.</p>
+~ ahmet aslan
 
-<a href="#15Mart22016">15 Mart 2016 - 21:33</a>
+<a href="#15mart22016">15 mart 2016 - 21:33</a>
 
-<p id="15Mart22016">
-Ben seni severim sevmesine de toplum buna hazır değil
-Nükleer denemeler kyoto sözleşmesi küresel ısınma falan.
-Belki sen çok küçüksün belki benim ruhum ölü
-Biraz Nietzsche biraz Kant kafan karışmış belki
-Parlıamanet'i de bozdular tutunacak dalımız mı kaldı?
-Pavyonda tanıdığım bilge bir pezevenk vardı!
-Kötü kitaplar okumak kötü yaşamak gibidir derdi.
-İyi kitaplar okudum bir boka yaramadı..
-Ben seni severim aslında da düzenim bozulur diye korkuyorum
-Durduk yere başımıza saçma sapan bir aşk çıkar
-Sinemaya gitmeye ele ele tutuşmaya falan kalkarız
-İşin yoksa çiçek al,saç tara, parfüm sık.
-Küsmesi,barışması,ayılması,bayılması
-Hatta eninde sonunda kaçınılmaz ayrılması
-Meyhanede tanıdığım gerzek bir filozof vardı!
-Güzel kadınlar insanın ömrünü uzatır derdi.
-Bir sürü güzel kadın girdi hayatıma
-Hepsi ağzıma sıçtı..
-Ben seni severim belki de rabbim buna hazır değil.
-Her şeyin güzelini sever o ideal birliktelikler ister
-Seninle benim yan yana oturacağımız çekyata
-Ne ilahi adalet sığar ne de diyalektik..
-İçime çöreklenmiş sığ bir sığır var benim.
-Ben seni severim sevmesine de
-İş çıkarmasana şimdi ne gerek var güzelim..</p>
-~ Ali Lidar
+<p id="15mart22016">
+ben seni severim sevmesine de toplum buna hazır değil
+nükleer denemeler kyoto sözleşmesi küresel ısınma falan.
+belki sen çok küçüksün belki benim ruhum ölü
+biraz nietzsche biraz kant kafan karışmış belki
+parlıamanet'i de bozdular tutunacak dalımız mı kaldı?
+pavyonda tanıdığım bilge bir pezevenk vardı!
+kötü kitaplar okumak kötü yaşamak gibidir derdi.
+i̇yi kitaplar okudum bir boka yaramadı..
+ben seni severim aslında da düzenim bozulur diye korkuyorum
+durduk yere başımıza saçma sapan bir aşk çıkar
+sinemaya gitmeye ele ele tutuşmaya falan kalkarız
+i̇şin yoksa çiçek al,saç tara, parfüm sık.
+küsmesi,barışması,ayılması,bayılması
+hatta eninde sonunda kaçınılmaz ayrılması
+meyhanede tanıdığım gerzek bir filozof vardı!
+güzel kadınlar insanın ömrünü uzatır derdi.
+bir sürü güzel kadın girdi hayatıma
+hepsi ağzıma sıçtı..
+ben seni severim belki de rabbim buna hazır değil.
+her şeyin güzelini sever o ideal birliktelikler ister
+seninle benim yan yana oturacağımız çekyata
+ne ilahi adalet sığar ne de diyalektik..
+i̇çime çöreklenmiş sığ bir sığır var benim.
+ben seni severim sevmesine de
+i̇ş çıkarmasana şimdi ne gerek var güzelim..</p>
+~ ali lidar
 
-<a href="#15Mart2016">15 Mart 2016 - 01:11</a>
+<a href="#15mart2016">15 mart 2016 - 01:11</a>
 
-<p id="15Mart2016">
-Nasıl öfkelenmem düşündükçe memleketimi?
-Çırpınıyor ayakları altında, bir avuç hergelenin.</p>
-~ Nazım Hikmet
+<p id="15mart2016">
+nasıl öfkelenmem düşündükçe memleketimi?
+çırpınıyor ayakları altında, bir avuç hergelenin.</p>
+~ nazım hikmet
 
-<a href="#12Mart22016">12 Mart 2015</a>
-<p id="12Mart22016">
-Büsbütün başka bir hayat, daha az gülünç ve daha çok manalı bir hayat istiyorum.
-Belki bunu arayıp bulmak da mümkündür.</p>
-~ Sabahattin Ali
+<a href="#12mart22016">12 mart 2015</a>
+<p id="12mart22016">
+büsbütün başka bir hayat, daha az gülünç ve daha çok manalı bir hayat istiyorum.
+belki bunu arayıp bulmak da mümkündür.</p>
+~ sabahattin ali
 
-<a href="#12Mart2016">12 Mart 2015</a>
+<a href="#12mart2016">12 mart 2015</a>
 
-<p id="12Mart22016">
+<p id="12mart22016">
 kalbim ak da pak da desen yüzünden yansır pisliğin.</p>
 ~ kafkef
 
-<a href="#8Mart2016">8 Mart 2016</a>
-<p id="8Mart2016">
-Seni çok anıyorum ama aramıyorum.
-Çünkü biz, birbirimizi acıdan öldürürüz.</p>
-~ Ali Lidar
+<a href="#8mart2016">8 mart 2016</a>
+<p id="8mart2016">
+seni çok anıyorum ama aramıyorum.
+çünkü biz, birbirimizi acıdan öldürürüz.</p>
+~ ali lidar
 
-<a href="#3Mart2016">3 Mart 2016</a>
+<a href="#3mart2016">3 mart 2016</a>
 
-> Yalnızlık bir tarihtir, Gök dediğin ise iki kuşun arası.
+> yalnızlık bir tarihtir, gök dediğin ise iki kuşun arası.
 
-<a href="#29Sub2016">29 Şubat 2016</a>
+<a href="#29sub2016">29 şubat 2016</a>
 
-<p id="29Sub2016">Bir şeyin çaresi varsa tembellik yapma.
-Bir şeyin çaresi yoksa üzüntü yapma.</p>
-~ Said Nursi(r.a)
+<p id="29sub2016">bir şeyin çaresi varsa tembellik yapma.
+bir şeyin çaresi yoksa üzüntü yapma.</p>
+~ said nursi(r.a)
 
-<a href="#15Sub2016">15 Şubat 2016</a>
-<p id="15Sub2016">Şerle ulaşılan hayır, hayır değildir.</p>
-~ Hazreti Ali(Kerramellahu Vecheh)
+<a href="#15sub2016">15 şubat 2016</a>
+<p id="15sub2016">şerle ulaşılan hayır, hayır değildir.</p>
+~ hazreti ali(kerramellahu vecheh)
 
-<a href="#3Sub2016">3 Şubat 2016</a>
+<a href="#3sub2016">3 şubat 2016</a>
 
-<p id="3Sub2016">Siz garip bir insansınız dedi. Konuşmuyor, sormuyorsunuz.
-Fakat öyle bir haliniz var ki, her şeyi anlayabilirsiniz hissi veriyor.</p>
-~ Sabahattin Ali
+<p id="3sub2016">siz garip bir insansınız dedi. konuşmuyor, sormuyorsunuz.
+fakat öyle bir haliniz var ki, her şeyi anlayabilirsiniz hissi veriyor.</p>
+~ sabahattin ali
 
-<a href="#24Oca2016">24 Ocak 2016</a>
-<p id="24Oca2016">Yemek yemek üzerine ne düşünürsünüz bilmem ama kahvaltının mutlulukla bir ilgisi olmalı.</p>
-~ Cemal Süreya
+<a href="#24oca2016">24 ocak 2016</a>
+<p id="24oca2016">yemek yemek üzerine ne düşünürsünüz bilmem ama kahvaltının mutlulukla bir ilgisi olmalı.</p>
+~ cemal süreya
 
-<a href="#21Oca2016">21 Ocak 2016</a>
-<p id="21Oca2016">
-Suyu dinlemek gerek, ateş zaten içimizde.</p>
-~ Ahmet Telli
+<a href="#21oca2016">21 ocak 2016</a>
+<p id="21oca2016">
+suyu dinlemek gerek, ateş zaten içimizde.</p>
+~ ahmet telli
 
-<a href="#23Ara2015">23 Aralık 2015</a>
-<p id="23Ara2015">La rahate fid'dünya, illa fil ahire.
-Rahat dünyada değildir, ancak ahirettedir.</p>
+<a href="#23ara2015">23 aralık 2015</a>
+<p id="23ara2015">la rahate fid'dünya, illa fil ahire.
+rahat dünyada değildir, ancak ahirettedir.</p>
 
-<a href="#18Ara2015">18 Aralık 2015</a>
-<p id="18Ara2015">İçtiğimiz çay dans eden bir kadının ayak bilekleri gibidir.</p>
-~ Sezai Karakoç
+<a href="#18ara2015">18 aralık 2015</a>
+<p id="18ara2015">i̇çtiğimiz çay dans eden bir kadının ayak bilekleri gibidir.</p>
+~ sezai karakoç
 
-<a href="#5Ara2015">5 Aralık 2015</a>
-<p>Sonuçta biz gönül adamıyız tabii.
-Dağı severiz, taşı severiz, yeri gelir bir güvercine tutuluruz.</p>
-~ A.Akkus
+<a href="#5ara2015">5 aralık 2015</a>
+<p>sonuçta biz gönül adamıyız tabii.
+dağı severiz, taşı severiz, yeri gelir bir güvercine tutuluruz.</p>
+~ a.akkus
 
-<a href="#28Kas2015">28 Kasım 2015</a>
-<p id="28Kas2015">
-Çocuğuna otomobil değil,
-Bir şarkı, bir şiir bırak.
-Aşağı mahallede gördüm, arabalar eskiyor.</p>
-~ Ah Muhsin Ünlü
+<a href="#28kas2015">28 kasım 2015</a>
+<p id="28kas2015">
+çocuğuna otomobil değil,
+bir şarkı, bir şiir bırak.
+aşağı mahallede gördüm, arabalar eskiyor.</p>
+~ ah muhsin ünlü
 
-<a href="#23Kas2015">23 Kasım 2015</a>
-<p id="23Kas2015">- Ne çok şey biliyor bu insanlar Olric?
-+ Herkes işine geleni biliyor efendimiz.</p>
-~ Oğuz Atay
+<a href="#23kas2015">23 kasım 2015</a>
+<p id="23kas2015">- ne çok şey biliyor bu insanlar olric?
++ herkes işine geleni biliyor efendimiz.</p>
+~ oğuz atay
 
-<a href="#30Ekim2015">30 Ekim 2015</a>
+<a href="#30ekim2015">30 ekim 2015</a>
 <p>sudo apt-get install happiness love respect peace.</p>
-~ A.Akkus
+~ a.akkus
 
-<a href="#12Ekim2015">12 Ekim 2015</a>
+<a href="#12ekim2015">12 ekim 2015</a>
 
 <p>++küfür;</p>
-~ A.Akkus
+~ a.akkus
 
-<a href="#11Ekim2015">11 Ekim 2015?</a>
+<a href="#11ekim2015">11 ekim 2015?</a>
 <p>
-Fil çoğalsın.. Ebabilden umut kesilmez.
-Firavun azsa da, Nil'den umut kesilmez.
-Zalimler ölmüyor diye yese kapılma.
-Sabret hele.. Azrailden umut kesilmez...</p>
-~ Abdurrahim Karakoç
+fil çoğalsın.. ebabilden umut kesilmez.
+firavun azsa da, nil'den umut kesilmez.
+zalimler ölmüyor diye yese kapılma.
+sabret hele.. azrailden umut kesilmez...</p>
+~ abdurrahim karakoç
 
-<a href="#29Eyl2015">29 Eylül 2015</a>
+<a href="#29eyl2015">29 eylül 2015</a>
 
-<p>Ölünceye kadar hep gülsem yine gülmekten bıkmayacak bir adamım.</p>
-~ Sabahattin Ali
+<p>ölünceye kadar hep gülsem yine gülmekten bıkmayacak bir adamım.</p>
+~ sabahattin ali
 
-<a href="#17Eyl2015">17 Eylül 2015</a>
+<a href="#17eyl2015">17 eylül 2015</a>
 <p>siyah saç ak defterle geldin,
 ak saç siyah defterle gidiyorsun.</p>
 ~ kafkef
 
-<a href="#6Eyl2015">6 Eylül 2015</a>
+<a href="#6eyl2015">6 eylül 2015</a>
 
-> Doğrusu insan çok zalim, çok nankördür!
-~ İbrahim-34
+> doğrusu insan çok zalim, çok nankördür!
+~ i̇brahim-34
 
-<a href="#3Eyl2015">3 Eylül 2015</a>
+<a href="#3eyl2015">3 eylül 2015</a>
 
-> Hayatta hiçbir zaman kafamızdaki kadar harikulade şeyler olmayacağını henüz idrak etmemiştim.
-~ Sabahattin Ali
+> hayatta hiçbir zaman kafamızdaki kadar harikulade şeyler olmayacağını henüz idrak etmemiştim.
+~ sabahattin ali
 
-<a href="#28Agu2015">28 Ağustos 2015</a>
+<a href="#28agu2015">28 ağustos 2015</a>
 
-> Sonra gitgide hissizleşiyorsun azizim.
-Kimse ne muhabbet ehli,
-Ne de yol arkadaşı gibi görünmüyor gözüne.
-~ Servet Saygınoğlu
+> sonra gitgide hissizleşiyorsun azizim.
+kimse ne muhabbet ehli,
+ne de yol arkadaşı gibi görünmüyor gözüne.
+~ servet saygınoğlu
 
-<a href="#10Agu2015">10 Ağustos 2015</a>
+<a href="#10agu2015">10 ağustos 2015</a>
 
-> Ey iman edenler! Yapmayacağınız şeyleri niçin söylüyorsunuz?
-~ SAFF/2
+> ey iman edenler! yapmayacağınız şeyleri niçin söylüyorsunuz?
+~ saff/2
 
-<a href="#6Agu2015">6 Ağustos 2015</a>
+<a href="#6agu2015">6 ağustos 2015</a>
 
-> İçimdeki sultanın yüzünü görmek ister gözlerim.
+> i̇çimdeki sultanın yüzünü görmek ister gözlerim.
 ~ kafkef
 
-<a href="#31Tem2015">31 Temmuz 2015</a>
+<a href="#31tem2015">31 temmuz 2015</a>
 
-<p>Ak siyah saçları
-Düşmüş alnına
-Kaybolasım gelir
-Ateşte
-Dönmek ne mümkün
-Düştüm sevdana
-Ah yanasım gelir
-Ateşte
-Belki de yoktur
-Sonumuz
-Hasretle bitecek
-Yolumuz
-Aman efendim
-Canım efendim
-Konuş biraz
-Aman efendim
-Canım efendim
-Sarıl biraz
-Sev biraz
-Akşam çöküyor
-Dağların üstüne
-Çaresizliğimse
-Yüreğime
-Bırak seveyim seni
-Sadece bir gece
-Seher vakti bitsin
-Gizlice
-Sessizce</p>
-~ Birsen Tezer
+<p>ak siyah saçları
+düşmüş alnına
+kaybolasım gelir
+ateşte
+dönmek ne mümkün
+düştüm sevdana
+ah yanasım gelir
+ateşte
+belki de yoktur
+sonumuz
+hasretle bitecek
+yolumuz
+aman efendim
+canım efendim
+konuş biraz
+aman efendim
+canım efendim
+sarıl biraz
+sev biraz
+akşam çöküyor
+dağların üstüne
+çaresizliğimse
+yüreğime
+bırak seveyim seni
+sadece bir gece
+seher vakti bitsin
+gizlice
+sessizce</p>
+~ birsen tezer
 
-<a href="#23Tem2015">23 Temmuz 2015</a>
+<a href="#23tem2015">23 temmuz 2015</a>
 
-> İnsanların en zayıf tarafları, sormadan, araştırmadan, düşünmeden, kafalarını patlatmadan inanmak hususundaki hayret verici temayülleridir.
-~ Sabahattin Ali
+> i̇nsanların en zayıf tarafları, sormadan, araştırmadan, düşünmeden, kafalarını patlatmadan inanmak hususundaki hayret verici temayülleridir.
+~ sabahattin ali
 
-<a href="#22Tem2015">22 Temmuz 2015</a>
+<a href="#22tem2015">22 temmuz 2015</a>
 
-> Bilmediğin şeyler hakkında konuşmayı ve üzerine düşmediği halde söz söylemeyi terk et.
-~ Hz. Ali
+> bilmediğin şeyler hakkında konuşmayı ve üzerine düşmediği halde söz söylemeyi terk et.
+~ hz. ali
 
-<a href="#21Tem2015">21 Temmuz 2015</a>
+<a href="#21tem2015">21 temmuz 2015</a>
 
-> İyiliğin ödülü, iyilikten başka nedir ki?
-~ Rahman/60
+> i̇yiliğin ödülü, iyilikten başka nedir ki?
+~ rahman/60
 
-<a href="#15Tem2015">15 Temmuz 2015</a>
+<a href="#15tem2015">15 temmuz 2015</a>
 
-> Müthiş bir gevşeklik içindeyim, üşeniyorum.
-Sürüklenip gidiyorum.
-~ Sabahattin Ali
+> müthiş bir gevşeklik içindeyim, üşeniyorum.
+sürüklenip gidiyorum.
+~ sabahattin ali
 
-<a href="#5Tem2015">5 Temmuz 2015</a>
+<a href="#5tem2015">5 temmuz 2015</a>
 
-> Bir şeyin çaresi varsa tembellik yapma.
-Bir şeyin çaresi yoksa üzüntü yapma.
-~ Said Nursi(r.a)
+> bir şeyin çaresi varsa tembellik yapma.
+bir şeyin çaresi yoksa üzüntü yapma.
+~ said nursi(r.a)
 
-<a href="#13Haz2015">13 Haziran 2015</a>
+<a href="#13haz2015">13 haziran 2015</a>
 
-> Neydi bu içinden çıkılmaz meseleler?
-Neydi bu mavi göğe veya sevgili bir yüze bakmayı zevk olmaktan çıkaran hisler ve üzüntüler?
-~ Sabahattin Ali
+> neydi bu içinden çıkılmaz meseleler?
+neydi bu mavi göğe veya sevgili bir yüze bakmayı zevk olmaktan çıkaran hisler ve üzüntüler?
+~ sabahattin ali
 
-<a href="#29May2015">29 Mayıs 2015</a>
+<a href="#29may2015">29 mayıs 2015</a>
 
-> Şu kalabalığın içerisine gözüm kapalı karışsam, bir kuvvet beni muhakkak hiç şaşırtmadan doğruca Ona götürecektir.
-~ Sabahattin Ali
+> şu kalabalığın içerisine gözüm kapalı karışsam, bir kuvvet beni muhakkak hiç şaşırtmadan doğruca ona götürecektir.
+~ sabahattin ali
 
-<a href="#10May2015">10 Mayıs 2015</a>
+<a href="#10may2015">10 mayıs 2015</a>
 
-> İnsanın en birinci üstadı ve tesirli muallimi onun validesidir.
-~ Bediuzzaman
+> i̇nsanın en birinci üstadı ve tesirli muallimi onun validesidir.
+~ bediuzzaman
 
-<a href="#8May2015">8 Mayıs 2015</a>
+<a href="#8may2015">8 mayıs 2015</a>
 
-> Gelmesi muhakkak olan her şey uzak da olsa yakındır.
-~ Hz.Muhammed(s.a.v)
+> gelmesi muhakkak olan her şey uzak da olsa yakındır.
+~ hz.muhammed(s.a.v)
 
-<a href="#30Nis2015">30 Nisan 2015</a>
+<a href="#30nis2015">30 nisan 2015</a>
 
-> Hiçbir süs ve makyaj bir kadını, analık sevgisi kadar güzelleştiremez.
-~ Emile Brochvogel
+> hiçbir süs ve makyaj bir kadını, analık sevgisi kadar güzelleştiremez.
+~ emile brochvogel
 
-<a href="#20Nis2015">20 Nisan 2015</a>
+<a href="#20nis2015">20 nisan 2015</a>
 
-> Allah'ım! Recep ve Şaban ayını bize bereketli kıl ve bizi Ramazan'a kavuştur.
-~ Hz.Muhammed (s.a.v.)
+> allah'ım! recep ve şaban ayını bize bereketli kıl ve bizi ramazan'a kavuştur.
+~ hz.muhammed (s.a.v.)
 
-<a href="#30Mart2015">30 Mart 2015</a>
+<a href="#30mart2015">30 mart 2015</a>
 
-> İhtiyacımız olan esaslı ve soylu bir öfke.
-~ Nuri Pakdil
+> i̇htiyacımız olan esaslı ve soylu bir öfke.
+~ nuri pakdil
 
-<a href="#19Mart22015">19 Mart 2015</a>
+<a href="#19mart22015">19 mart 2015</a>
 
-> Uzun mesafelere ulaşmak, yakın mesafeleri aşmakla mümkündür.
-~ İmam Gazâlî
+> uzun mesafelere ulaşmak, yakın mesafeleri aşmakla mümkündür.
+~ i̇mam gazâlî
 
-<a href="#19Mart2015">19 Mart 2015</a>
+<a href="#19mart2015">19 mart 2015</a>
 
-> Her an karanlığını giyinecek gibisin.
-~ Cahit Zarifoğlu
+> her an karanlığını giyinecek gibisin.
+~ cahit zarifoğlu
 
-<a href="#8Mart2015">8 Mart 2015</a>
+<a href="#8mart2015">8 mart 2015</a>
 
-> Bize ağır gelen kendimiziz.
-~ Cahit Zarifoğlu
+> bize ağır gelen kendimiziz.
+~ cahit zarifoğlu
 
-<a href="#4Mart2015">4 Mart 2015</a>
+<a href="#4mart2015">4 mart 2015</a>
 
-> İnsanlık ince işçilik ister.
-~ İbrahim Tenekeci
+> i̇nsanlık ince işçilik ister.
+~ i̇brahim tenekeci
 
-<a href="#2Mart2015">2 Mart 2015</a>
+<a href="#2mart2015">2 mart 2015</a>
 
-> Üç kez öfkelendiği halde sana kötü söz söylemeyen dostu, kaybetme!
-~ Câfer-i Sadık(k.s)
+> üç kez öfkelendiği halde sana kötü söz söylemeyen dostu, kaybetme!
+~ câfer-i sadık(k.s)
 
-<a href="#15Sub2015">15 Şubat 2015</a>
+<a href="#15sub2015">15 şubat 2015</a>
 
-> Kadınların gülümsemediği bir ülkenin, erkekleri cesur olamaz.
-~ Murat Menteş
+> kadınların gülümsemediği bir ülkenin, erkekleri cesur olamaz.
+~ murat menteş
 
-<a href="#10Sub2015">10 Şubat 2015</a>
+<a href="#10sub2015">10 şubat 2015</a>
 
-> İlk işim. Tübitak/Gebze/Martek/32Bit Bilgisayar Hizmetleri
-Allah utandırmasın.
+> i̇lk işim. tübitak/gebze/martek/32bit bilgisayar hizmetleri
+allah utandırmasın.
 
-~ A.Akkus
+~ a.akkus
 
-<a href="#8Sub2014">8 Şubat 2015</a>
+<a href="#8sub2014">8 şubat 2015</a>
 
-> Sorumluluğunu taşıyabileceğin düşüncenin insanı ol.
-~ Ahmet Hamdi Tanpınar
+> sorumluluğunu taşıyabileceğin düşüncenin insanı ol.
+~ ahmet hamdi tanpınar
 
-<a href="#4Sub22015">4 Şubat 2015</a>
+<a href="#4sub22015">4 şubat 2015</a>
 
-> Sana Allah'ı hatırlatacak bir arkadaş bulunca ona sımsıkı sarıl, ondan ayrılma, onu küçümseme onu kendin için bir devlet bil... böyle kimseler mü'min için bir ganimettir.
-~ İmam Gazali
+> sana allah'ı hatırlatacak bir arkadaş bulunca ona sımsıkı sarıl, ondan ayrılma, onu küçümseme onu kendin için bir devlet bil... böyle kimseler mü'min için bir ganimettir.
+~ i̇mam gazali
 
-<a href="#4Sub2015">4 Şubat 2015</a>
+<a href="#4sub2015">4 şubat 2015</a>
 
-<p>Bu dünya soğuk. Rüzgar genelde ters yöne eser.
-Limon ağaçları kurur. Bahaneler hep hazır.
-Güzel günler çabuk geçer..</p>
-~ Cahit Zarifoğlu
+<p>bu dünya soğuk. rüzgar genelde ters yöne eser.
+limon ağaçları kurur. bahaneler hep hazır.
+güzel günler çabuk geçer..</p>
+~ cahit zarifoğlu
 
-<a href="#31Ara2014">31 Aralık 2014</a>
+<a href="#31ara2014">31 aralık 2014</a>
 
-<p>'Yılbaşının sence hiçbir hususiyeti yok mudur'' diye sordum.
-''Hayır'' dedi. ''senenin diğer günlerinden ne farkı var sanki?
-Tabiat onu her hangi bir şekilde ayırmış mı? Ömrümüzden bir sene geçtiğini göstermesi bile o kadar mühim değil; çünkü ömrümüzü senelere ayırmak da insanların uydurması.
-İnsan ömrü doğumdan ölüme uzanan tek bir yoldan ibarettir ve bunun üzerinde yapılan her türlü taksimat sunidir..''</p>
-~ Sabahattin Ali
+<p>'yılbaşının sence hiçbir hususiyeti yok mudur'' diye sordum.
+''hayır'' dedi. ''senenin diğer günlerinden ne farkı var sanki?
+tabiat onu her hangi bir şekilde ayırmış mı? ömrümüzden bir sene geçtiğini göstermesi bile o kadar mühim değil; çünkü ömrümüzü senelere ayırmak da insanların uydurması.
+i̇nsan ömrü doğumdan ölüme uzanan tek bir yoldan ibarettir ve bunun üzerinde yapılan her türlü taksimat sunidir..''</p>
+~ sabahattin ali
 
-<a href="#23Ara2014">23 Aralık 2014</a>
+<a href="#23ara2014">23 aralık 2014</a>
 
-> Hayat, eli sopalı bir öğretmen.
+> hayat, eli sopalı bir öğretmen.
 ~ kafkef
 
-<a href="#17Ara2014">17 Aralık 2014</a>
+<a href="#17ara2014">17 aralık 2014</a>
 
-> Şu küçücük kalpte nice hakkın yüklü.
-~ Cahit Zarifoğlu
+> şu küçücük kalpte nice hakkın yüklü.
+~ cahit zarifoğlu
 
-<a href="#10Ara2014">10 Aralık 2014</a>
+<a href="#10ara2014">10 aralık 2014</a>
 
-> Çay içerek bile mutlu olmayı başarmalı insan.
-~ Prof. Dr. Nevzat Tarhan
+> çay içerek bile mutlu olmayı başarmalı insan.
+~ prof. dr. nevzat tarhan
 
-<a href="#18Kas2014">18 Kasım 2014</a>
+<a href="#18kas2014">18 kasım 2014</a>
 
-> Hadi göğe bakalım.
-~ Turgut Uyar
+> hadi göğe bakalım.
+~ turgut uyar
 
-<a href="#3Kas2014">3 Kasım 2014</a>
+<a href="#3kas2014">3 kasım 2014</a>
 
-> Bir kez kaçar uçurtman, sonra gökyüzüne küser insan.
-~ Hermann Hesse
+> bir kez kaçar uçurtman, sonra gökyüzüne küser insan.
+~ hermann hesse
 
-<a href="#30Ekim2014">30 Ekim 2014</a>
+<a href="#30ekim2014">30 ekim 2014</a>
 
-> Allah'ın sevgisine erişeceğin yerlerde bulunmak, hayatın değerini bilmektir.
-~ İbn Ataullah el- İskenderî
+> allah'ın sevgisine erişeceğin yerlerde bulunmak, hayatın değerini bilmektir.
+~ i̇bn ataullah el- i̇skenderî
 
-<a href="#25Ekim2014">25 Ekim 2014</a>
+<a href="#25ekim2014">25 ekim 2014</a>
 
-> Scala is also a functional language in the sense that every function is a value and because every value is an object so ultimately every function is an object.
+> scala is also a functional language in the sense that every function is a value and because every value is an object so ultimately every function is an object.
 
-<a href="#23Ekim2014">23 Ekim 2014</a>
+<a href="#23ekim2014">23 ekim 2014</a>
 
-> Aylar sonra ilk defa gözlerim bir işe yarayacak seni görerek.
-~ Franz Kafka
+> aylar sonra ilk defa gözlerim bir işe yarayacak seni görerek.
+~ franz kafka
 
-<a href="#18Ekim2014">18 Ekim 2014</a>
+<a href="#18ekim2014">18 ekim 2014</a>
 
-> "Beni görmedikleri halde bana iman eden kardeşlerimi görmeyi çok isterdim."
-~ Hz.Muhammed(s.a.v)
+> "beni görmedikleri halde bana iman eden kardeşlerimi görmeyi çok isterdim."
+~ hz.muhammed(s.a.v)
 
-<a href="#17Ekim2014">17 Ekim 2014</a>
+<a href="#17ekim2014">17 ekim 2014</a>
 
-> “Eğer siz, benim bildiklerimi bilseydiniz, mutlaka az güler, çok ağlardınız.”
-~ Hadis-i Şerif
+> “eğer siz, benim bildiklerimi bilseydiniz, mutlaka az güler, çok ağlardınız.”
+~ hadis-i şerif
 
-<a href="#7Ekim2014">7 Ekim 2014</a>
+<a href="#7ekim2014">7 ekim 2014</a>
 
-> İnsanı insan yapan duyguların ilkidir aşk.
-Bir kişiyi seven, bütün insanları sever.
-~ Necati Cumalı
+> i̇nsanı insan yapan duyguların ilkidir aşk.
+bir kişiyi seven, bütün insanları sever.
+~ necati cumalı
 
-<a href="#5Ekim2014">5 Ekim 2014</a>
+<a href="#5ekim2014">5 ekim 2014</a>
 
-> Acaba bunlar neden yaşıyorlar? Yaşamakta ne buluyorlar?
-Hangi mantık, hangi hikmet bunların yeryüzünde dolaşıp nefes almalarını emrediyor?
-~ Sabahattin Ali
+> acaba bunlar neden yaşıyorlar? yaşamakta ne buluyorlar?
+hangi mantık, hangi hikmet bunların yeryüzünde dolaşıp nefes almalarını emrediyor?
+~ sabahattin ali
 
-<a href="#1Ekim2014">1 Ekim 2014</a>
+<a href="#1ekim2014">1 ekim 2014</a>
 
-> Her nasip için ayrı bir rahmet şekillenir.
-~ Cahit Zarifoğlu
+> her nasip için ayrı bir rahmet şekillenir.
+~ cahit zarifoğlu
 
-<a href="#17Eyl2014">17 Eylül 2014</a>
+<a href="#17eyl2014">17 eylül 2014</a>
 
-> Ve giderek bütün gençleri saran bir gırgır furyası, bir gevezelik, malayanilik, bir seviyesizlik..
-~ Cahit Zarifoğlu
+> ve giderek bütün gençleri saran bir gırgır furyası, bir gevezelik, malayanilik, bir seviyesizlik..
+~ cahit zarifoğlu
 
-<a href="#14Eyl2014">14 Eylül 2014</a>
+<a href="#14eyl2014">14 eylül 2014</a>
 
-> ...Rabbini hamd ile tesbih et. Güneşin doğuşundan önce de , batışından sonra da , gece saatlerinde de , gündüzün etrafında da.. tâ ki rızaya eresin.
-~ Taha, 130
+> ...rabbini hamd ile tesbih et. güneşin doğuşundan önce de , batışından sonra da , gece saatlerinde de , gündüzün etrafında da.. tâ ki rızaya eresin.
+~ taha, 130
 
-<a href="#9Eyl2014">9 Eylül 2014</a>
+<a href="#9eyl2014">9 eylül 2014</a>
 
-> Sen hep gül ,
-Öylece kal ,
-İzlemek Seni ,
-Düşlerin en güzeli.
-~ Cahit Zarifoğlu
+> sen hep gül ,
+öylece kal ,
+i̇zlemek seni ,
+düşlerin en güzeli.
+~ cahit zarifoğlu
 
-<a href="#30Agu2014">30 Ağustos 2014</a>
+<a href="#30agu2014">30 ağustos 2014</a>
 
-> İnsanların çoğu bilmezler; " Hiçbir Aşk yoktur ki Allah’ın rızası olmadan bir anlam ifade etsin.. "
-~ Kurtuluş Aybirdi
+> i̇nsanların çoğu bilmezler; " hiçbir aşk yoktur ki allah’ın rızası olmadan bir anlam ifade etsin.. "
+~ kurtuluş aybirdi
 
-<a href="#29Agu2014">29 Ağustos 2014</a>
+<a href="#29agu2014">29 ağustos 2014</a>
 
-> Kibir taşıyan kafada akla rastlayamazsınız.
-~ Ahmet İbni Hanbel(r.a)
+> kibir taşıyan kafada akla rastlayamazsınız.
+~ ahmet i̇bni hanbel(r.a)
 
-<a href="#10Agu2014">20 Ağustos 2014</a>
+<a href="#10agu2014">20 ağustos 2014</a>
 
-> Unutma , problemler küçük insanlarin şevkini kırar , büyük insanların ise azmini arttırır.
-~ Zübeyir Gündüzalp
+> unutma , problemler küçük insanlarin şevkini kırar , büyük insanların ise azmini arttırır.
+~ zübeyir gündüzalp
 
-<a href="#29Tem2014">29 Temmuz 2014</a>
+<a href="#29tem2014">29 temmuz 2014</a>
 
 > dertle anlaş deva bul,üzüntü kalbi sömürür.
 ~ kafkef
 
-<a href="#6Tem2014">6 Temmuz 2014</a>
+<a href="#6tem2014">6 temmuz 2014</a>
 
 > ..."sırdır ki gizli gerektir, sevgilinin adını dile düşürmek hakikatte ayıptır.
-Kays bir dağ delisi gibi davrandı, gitti sahralarda çöllerde aşkımız ona buna anlattı, ben kimseciklerle paylaşmadım onun sevgisini, içimde büyüttüm, büyüttüm, büyüttüm...
-Budur ki benim onu daha çok sevdiğime delildir.“
-~ Iskender Pala
+kays bir dağ delisi gibi davrandı, gitti sahralarda çöllerde aşkımız ona buna anlattı, ben kimseciklerle paylaşmadım onun sevgisini, içimde büyüttüm, büyüttüm, büyüttüm...
+budur ki benim onu daha çok sevdiğime delildir.“
+~ iskender pala
 
-<a href="#30Haz2014">30 Haziran 2014</a>
+<a href="#30haz2014">30 haziran 2014</a>
 
-> Sevmeyi bilen adamlara acı çektirmeyin ,
-Sonra şiir yazıyorlar , Hepimiz dertleniyoruz ..
-~ Serdar Tuncer
+> sevmeyi bilen adamlara acı çektirmeyin ,
+sonra şiir yazıyorlar , hepimiz dertleniyoruz ..
+~ serdar tuncer
 
-<a href="#4Haz2014">4 Haziran 2014</a>
+<a href="#4haz2014">4 haziran 2014</a>
 
-> Eğer C++ dilinin gereğinden fazla kamaşık olmadığını düşünüyorsanız bana " protected abstract virtual base pure virtual private destructor" ın ne olduğunu söyleyin.
-~ Tom Cargill.
+> eğer c++ dilinin gereğinden fazla kamaşık olmadığını düşünüyorsanız bana " protected abstract virtual base pure virtual private destructor" ın ne olduğunu söyleyin.
+~ tom cargill.
