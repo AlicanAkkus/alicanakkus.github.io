@@ -4,6 +4,12 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**16 Mart 2019 - 23:45**
+
+_içimde ona karşı tarifi imkansız bir şevkat vardı. yatağında nasıl uzandığını, nasıl ağır ağır nefes aldığını, saçlarının yatağa nasıl serildiğini tasavvur ediyor ve hayatta bu manzarayı görmekten daha büyük bir saadet olamayacağını düşünüyordum._
+
+~ sabahattin ali
+
 **9 Mart 2019 - 17:45**
 
 _gez ve kimseye söyleme; gerçek bir aşk hikayesi yaşa, kimseye söyleme. mutlu ol, kimseye söyleme; insanlar güzel şeyleri mahveder._
