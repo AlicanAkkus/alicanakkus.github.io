@@ -4,18 +4,25 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=-sgBn0Vhe1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+~ elena ledda - pesa
+
+---
 **16 Mart 2019 - 23:45**
 
 _içimde ona karşı tarifi imkansız bir şevkat vardı. yatağında nasıl uzandığını, nasıl ağır ağır nefes aldığını, saçlarının yatağa nasıl serildiğini tasavvur ediyor ve hayatta bu manzarayı görmekten daha büyük bir saadet olamayacağını düşünüyordum._
 
 ~ sabahattin ali
 
+---
 **9 Mart 2019 - 17:45**
 
 _gez ve kimseye söyleme; gerçek bir aşk hikayesi yaşa, kimseye söyleme. mutlu ol, kimseye söyleme; insanlar güzel şeyleri mahveder._
 
 ~ halil cibran
 
+---
 **26 şubat 2019 - 21:50**
 
 _bir kadının yüzüne bakıp sarhoş olacağımı hiç düşünmemiştim._
