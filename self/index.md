@@ -3,6 +3,18 @@ layout: post
 title: hal-i cünunum
 heading: hal-i cünunum
 ---
+
+**30 Mart 2019 - 14:30**
+
+_saadet zamanı: avluya doğru oturmuşuz, sen ve ben_
+_endamımız çift, sûretimiz çift, rûhumuz tek, sen ve ben_
+_bulandıran palavralardan âzâde, gamsız bir keyif, sen ve ben_
+_sen ve ben, ne sen varsın ne de ben, bir olmuşuz aşk elinden_
+
+~ rumi
+
+---
+
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=-sgBn0Vhe1w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ~ elena ledda - pesa
