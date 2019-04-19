@@ -4,6 +4,65 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**19 Nisan 2019 - 20:40**
+Keder içlerden ve evlerden
+kapı önlerine taşar
+erken saatlerde ağrı neye tahvil edilir?
+
+Keder bilhassa kenar mahallelerde
+işten eve yorgun dönen kızların
+köprücük kemiklerinde boy verir
+
+Siz duymazsınız
+onlarla ben hep bir ağızdan bağırırız
+bizi parklar delirtti
+bizi çam ağaçları
+bizi atlar
+bizi babamlar
+bizi iddia kuponları
+ganyan bayileri
+güzel adamlar 
+güzel kadınlar
+bizi patronlar
+bizi tabiat
+bizi devlet
+bizi Allah bile
+kollamadı, heyhat!
+
+Kim yüzümüze gülse bir şey zannediyoruz
+aldanacağımızı bile bile
+esasen aldanmak mesele değil de
+bizi erken akşamlar delirtti
+adam yerine koyulmalar
+kozmik bar kahkahaları
+inanılmaz şortlu ve yorgun garsonlar
+kediler delirtti bizi
+sokak aralarından tereddütle
+önümüze fırlayan kediler
+gece yarısı biten sigaralar delirtti bizi
+beşiktaş ve tolga zengin
+bir halt olmayacağını bile bile
+kurduğumuz hayaller delirtti bizi
+son aşk
+son tramvay
+son servis
+
+Ulan insan her şeye mi geç kalır?
+bütün son otobüsler durağa yanaşırken mi kalkar? 
+neden bütün insanlardan umudunu kesmiş kadınlar
+son otobüsün kalktığı anda kederle yüzümüze bakar?
+
+
+Keder bar içlerinden apartlara doğru savrulur
+saldırır suratlara şehrin kiri ve öfkesi
+biten gün gelecek günü hatırlatır ve ağlatır
+budur ahir zamanlarda yaşamanın
+esbab-ı mucibesi!
+
+~ ali lidar
+
+---
+
 **30 Mart 2019 - 14:30**
 
 _saadet zamanı: avluya doğru oturmuşuz, sen ve ben_
