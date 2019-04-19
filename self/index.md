@@ -5,59 +5,59 @@ heading: hal-i cünunum
 ---
 
 **19 Nisan 2019 - 20:40**
-Keder içlerden ve evlerden
-kapı önlerine taşar
-erken saatlerde ağrı neye tahvil edilir?
 
-Keder bilhassa kenar mahallelerde
-işten eve yorgun dönen kızların
-köprücük kemiklerinde boy verir
+_Keder içlerden ve evlerden_
+_kapı önlerine taşar_
+_erken saatlerde ağrı neye tahvil edilir?_
 
-Siz duymazsınız
-onlarla ben hep bir ağızdan bağırırız
-bizi parklar delirtti
-bizi çam ağaçları
-bizi atlar
-bizi babamlar
-bizi iddia kuponları
-ganyan bayileri
-güzel adamlar 
-güzel kadınlar
-bizi patronlar
-bizi tabiat
-bizi devlet
-bizi Allah bile
-kollamadı, heyhat!
+_keder bilhassa kenar mahallelerde_
+_işten eve yorgun dönen kızların_
+_köprücük kemiklerinde boy verir_
 
-Kim yüzümüze gülse bir şey zannediyoruz
-aldanacağımızı bile bile
-esasen aldanmak mesele değil de
-bizi erken akşamlar delirtti
-adam yerine koyulmalar
-kozmik bar kahkahaları
-inanılmaz şortlu ve yorgun garsonlar
-kediler delirtti bizi
-sokak aralarından tereddütle
-önümüze fırlayan kediler
-gece yarısı biten sigaralar delirtti bizi
-beşiktaş ve tolga zengin
-bir halt olmayacağını bile bile
-kurduğumuz hayaller delirtti bizi
-son aşk
-son tramvay
-son servis
+_siz duymazsınız_
+_onlarla ben hep bir ağızdan bağırırız_
+_bizi parklar delirtti_
+_bizi çam ağaçları_
+_bizi atlar_
+_bizi babamlar_
+_bizi iddia kuponları_
+_ganyan bayileri_
+_güzel adamlar_
+_güzel kadınlar_
+_bizi patronlar_
+_bizi tabiat_
+_bizi devlet_
+_bizi Allah bile_
+_kollamadı, heyhat!_
 
-Ulan insan her şeye mi geç kalır?
-bütün son otobüsler durağa yanaşırken mi kalkar? 
-neden bütün insanlardan umudunu kesmiş kadınlar
-son otobüsün kalktığı anda kederle yüzümüze bakar?
+_kim yüzümüze gülse bir şey zannediyoruz_
+_aldanacağımızı bile bile_
+_esasen aldanmak mesele değil de_
+_bizi erken akşamlar delirtti_
+_adam yerine koyulmalar_
+_kozmik bar kahkahaları_
+_inanılmaz şortlu ve yorgun garsonlar_
+_kediler delirtti bizi_
+_sokak aralarından tereddütle_
+_önümüze fırlayan kediler_
+_gece yarısı biten sigaralar delirtti bizi_
+_beşiktaş ve tolga zengin_
+_bir halt olmayacağını bile bile_
+_kurduğumuz hayaller delirtti bizi_
+_son aşk_
+_son tramvay_
+_son servis_
 
+_ulan insan her şeye mi geç kalır?_
+_bütün son otobüsler durağa yanaşırken mi kalkar? _
+_neden bütün insanlardan umudunu kesmiş kadınlar_
+_son otobüsün kalktığı anda kederle yüzümüze bakar?_
 
-Keder bar içlerinden apartlara doğru savrulur
-saldırır suratlara şehrin kiri ve öfkesi
-biten gün gelecek günü hatırlatır ve ağlatır
-budur ahir zamanlarda yaşamanın
-esbab-ı mucibesi!
+_keder bar içlerinden apartlara doğru savrulur_
+_saldırır suratlara şehrin kiri ve öfkesi_
+_biten gün gelecek günü hatırlatır ve ağlatır_
+_budur ahir zamanlarda yaşamanın_
+_esbab-ı mucibesi!_
 
 ~ ali lidar
 
