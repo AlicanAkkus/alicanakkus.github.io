@@ -6,7 +6,7 @@ heading: hal-i cünunum
 
 **19 Nisan 2019 - 20:40**
 
-_Keder içlerden ve evlerden_
+_keder içlerden ve evlerden_
 
 _kapı önlerine taşar_
 
@@ -85,7 +85,7 @@ _son servis_
 
 _ulan insan her şeye mi geç kalır?_
 
-_bütün son otobüsler durağa yanaşırken mi kalkar? _
+_bütün son otobüsler durağa yanaşırken mi kalkar?_
 
 _neden bütün insanlardan umudunu kesmiş kadınlar_
 
