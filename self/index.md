@@ -4,6 +4,16 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**30 Nisan 2019 - 23:10**
+
+_ne kadar yakınınız olursa olsun, bir başkasının içinden geçenler daima bir meçhul olarak kalacaktır._
+
+_bir yastıkta uyuyanlar bile birbirlerinin rüyalarını bilmezler._ 
+
+~ ahmet hamdi tanpınar
+
+---
+
 **19 Nisan 2019 - 20:40**
 
 _keder içlerden ve evlerden_
