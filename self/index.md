@@ -4,6 +4,16 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**5 Mayıs 2019 - 22:00**
+
+_çok gülen bir insan uzun süre devam etse gözlerinden yaş gelir. ağlayan insan bir süre sonra sinirden güldüğünü hisseder. 
+hızlı giden arabanın tekerine baksanız ters dönüyor gibi hissedersiniz. haddini aşan her duygu zıttına dönüşür._ 
+_haddinden fazla sevdin şimdi nefrete dönüştü.._
+
+~ ses getiren basari
+
+---
+
 **30 Nisan 2019 - 23:10**
 
 _ne kadar yakınınız olursa olsun, bir başkasının içinden geçenler daima bir meçhul olarak kalacaktır._
