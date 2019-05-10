@@ -7,11 +7,15 @@ heading: hal-i cünunum
 **10 Mayıs 2019 - 15:45**
 
 _ne vakit karşımda görsem_
+
 _öldüreceğimden korkardım_
+
 
 _sen kalkıp ona giderdin_
 
+
 _hayırsızın biriydi fikrimce_
+
 _güldü mü cenazeye benzerdi_
 
 ~ a.ilhan
