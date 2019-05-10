@@ -4,6 +4,20 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**10 Mayıs 2019 - 15:45**
+
+_ne vakit karşımda görsem_
+_öldüreceğimden korkardım_
+
+_sen kalkıp ona giderdin_
+
+_hayırsızın biriydi fikrimce_
+_güldü mü cenazeye benzerdi_
+
+~ a.ilhan
+
+---
+
 **5 Mayıs 2019 - 22:00**
 
 _çok gülen bir insan uzun süre devam etse gözlerinden yaş gelir. ağlayan insan bir süre sonra sinirden güldüğünü hisseder. 
