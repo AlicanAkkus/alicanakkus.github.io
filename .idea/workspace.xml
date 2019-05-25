@@ -24,8 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d2133f1-c32c-415d-b34c-7c4359e53abf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/docker/2018-09-13-dockerized-springboot-test.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/java-platform/other/2019-05-08-make-your-customers-happy-with-spock.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +35,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/docker/2018-09-13-dockerized-springboot-test.md">
+        <entry file="file://$PROJECT_DIR$/_posts/java-platform/other/2019-05-08-make-your-customers-happy-with-spock.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="602">
-                <caret line="180" column="1" selection-start-line="180" selection-start-column="1" selection-end-line="180" selection-end-column="1" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
               </first_editor>
               <second_editor />
             </state>
@@ -66,6 +65,8 @@
       <list>
         <option value="$PROJECT_DIR$/self/index.md" />
         <option value="$PROJECT_DIR$/_posts/docker/2018-09-13-dockerized-springboot-test.md" />
+        <option value="$PROJECT_DIR$/_posts/docker/2019-05-08-make-your-customers-happy-with-spock.md" />
+        <option value="$PROJECT_DIR$/_posts/java-platform/other/2019-05-08-make-your-customers-happy-with-spock.md" />
       </list>
     </option>
   </component>
@@ -96,6 +97,19 @@
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
               <item name="docker" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="alicanakkus.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alicanakkus.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="java-platform" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alicanakkus.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alicanakkus.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="java-platform" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -114,6 +128,9 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts/java-platform/other" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts/docker" />
     </key>
@@ -141,18 +158,18 @@
       <option name="presentableId" value="Default" />
       <updated>1552137801988</updated>
       <workItem from="1552137806360" duration="4359000" />
-      <workItem from="1558795877956" duration="455000" />
+      <workItem from="1558795877956" duration="796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4814000" />
+    <option name="totallyTimeSpent" value="5155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Learn" order="3" />
@@ -199,8 +216,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/docker/2018-09-13-dockerized-springboot-test.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="602">
-            <caret line="180" column="1" selection-start-line="180" selection-start-column="1" selection-end-line="180" selection-end-column="1" />
+          <first_editor relative-caret-position="317">
+            <caret line="161" column="3" lean-forward="true" selection-start-line="161" selection-start-column="3" selection-end-line="161" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/java-platform/other/2019-05-08-make-your-customers-happy-with-spock.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="94" selection-start-line="8" selection-start-column="94" selection-end-line="8" selection-end-column="94" />
           </first_editor>
           <second_editor />
         </state>
