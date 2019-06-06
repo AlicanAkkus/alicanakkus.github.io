@@ -4,6 +4,34 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**06 Haziran 2019 - 22:50**
+
+_anne bakışlarında kimi görüyorum_
+
+_kime aidim kimin bu eylül_
+
+_anne dua_
+
+_anne güz_
+
+_anne bahar_
+
+_babamın gözlerinde_
+
+_vardiya karası_
+
+_kışımız çengelli bir iğneydi anne_
+
+_güzümüz çengelli bir kız_
+
+_anne diye kat kat katliam_
+
+_gittim orada durmam_
+
+~ kaf / kara kafile
+
+---
+
 **10 Mayıs 2019 - 15:45**
 
 _ne vakit karşımda görsem_
