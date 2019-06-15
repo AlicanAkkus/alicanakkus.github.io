@@ -4,6 +4,18 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**15 Haziran 2019 - 22:24**
+
+_güzeldim de galiba bunu nasıl söylesem: eline sağlık tanrım leyla çok güzel olmuş_
+
+_tanrım eline sağlık dünya da çok güzel olmuş_
+
+_keşke biraz ölmesem._
+
+~ ibrahim tenekeci
+
+---
+
 **06 Haziran 2019 - 22:50**
 
 _anne bakışlarında kimi görüyorum_
