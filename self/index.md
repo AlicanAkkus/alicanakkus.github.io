@@ -4,6 +4,30 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**24 Haziran 2019 - 22:25**
+
+_denizden yeni mi çıkmıştı, neydi;_
+
+_saçları, dudakları deniz koktu sabaha kadar; yükselip alçalan göğsü deniz gibiydi._
+
+_yoksuldu, biliyorum -ama boyna da yoksulluk sözü edilmez ya- kulağımın dibinde, yavaş yavaş, aşk türküleri söyledi._
+
+_neler görmüş, neler öğrenmişti kim bilir. denizle boğaz boğaza geçen hayatında!_
+
+_ağ yamamak, ağ atmak, ağ toplamak, olta yapmak, yem çıkarmak, kayık temizlemek..._
+
+_dikenli balıkları hatırlatmak için elleri ellerime değdi._
+
+_o gece gördüm, onun gözlerinde gördüm; gün ne güzel doğarmış meğer açık denizde!_
+
+_onun saçları öğretti bana dalgayı; çalkalandım durdum rüyalar içinde._
+
+
+~ orhan veli
+
+---
+
+
 **15 Haziran 2019 - 22:24**
 
 _güzeldim de galiba bunu nasıl söylesem: eline sağlık tanrım leyla çok güzel olmuş_
