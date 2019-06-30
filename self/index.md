@@ -4,6 +4,14 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**30 Haziran 2019 - 19:00**
+
+_when you sit with a nice girl for two hours, it seems like two minutes; when you sit on a hot stove for two minutes, it seems like two hours. that's relativity._
+
+~ a.einstein
+
+---
+
 **24 Haziran 2019 - 22:25**
 
 _denizden yeni mi çıkmıştı, neydi;_
