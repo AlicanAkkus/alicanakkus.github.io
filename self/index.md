@@ -4,6 +4,14 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**29 Temmuz 2019 - 21:15**
+
+_ismin yazılırken harfler ayrılmıyor birbirinden._
+
+~ a.özyapıcı
+
+---
+
 **30 Haziran 2019 - 19:00**
 
 _when you sit with a nice girl for two hours, it seems like two minutes; when you sit on a hot stove for two minutes, it seems like two hours. that's relativity._
