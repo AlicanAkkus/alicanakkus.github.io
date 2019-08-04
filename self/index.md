@@ -4,6 +4,16 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+
+**04 Agustos 2019 - 11:30**
+
+_gözlerin gözlerime değince, felaketim olurdu ağlardım._
+
+~ a.ilhan
+
+---
+
+
 **29 Temmuz 2019 - 21:15**
 
 _ismin yazılırken harfler ayrılmıyor birbirinden._
