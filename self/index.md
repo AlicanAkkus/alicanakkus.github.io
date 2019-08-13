@@ -5,6 +5,14 @@ heading: hal-i cünunum
 ---
 
 
+**13 Agustos 2019 - 21:45**
+
+_saygım senin orospun olsun, kaygın benim aşkım._
+
+~ kafkef
+
+---
+
 **04 Agustos 2019 - 11:30**
 
 _gözlerin gözlerime değince, felaketim olurdu ağlardım._
