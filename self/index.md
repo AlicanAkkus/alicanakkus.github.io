@@ -6,8 +6,7 @@ heading: hal-i cünunum
 
 **06 Şubat 2020 - 09:15**
 
-_çeşminden dökülmüş doğarken kıvırcık saçların, bir ezanla fısıldanmış en güzel isim; adın._
-
+_bir ezanla fısıldanmış en güzel isim; adın._
 
 ---
 
