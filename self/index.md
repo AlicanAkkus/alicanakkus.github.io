@@ -4,7 +4,13 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
-**06 Şubat 2020 - 09:15**
+**15 March 2020 - 23:00**
+
+_kalk güneşi uğurla, bir dağın kaburgasından yaratıldın sen._
+
+---
+
+**06 Feburary 2020 - 09:15**
 
 _bir ezanla fısıldanmış en güzel isim; adın._
 
