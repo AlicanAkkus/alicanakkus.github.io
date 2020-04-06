@@ -4,6 +4,22 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**6 April 2020 - 22:15**
+
+_zaman içinde bulunduğumuz an mıdır?
+insan var olmak istediği anda mıdır?
+
+istikbaldeki yıllar ile maziyi tahavvül mümkünse,
+kabul eden aşık zarar da mıdır?
+
+bir Leylânın Mecnûnuyam cânân ilinin canıdır,
+bir dilberin meftunuyam bu can anın kurbânıdır.
+
+yürü, ey seyyah-ı avare yürü,
+koymasın geçmiş gelecekten._
+
+~ a.akkus
+
 **15 March 2020 - 23:00**
 
 _kalk güneşi uğurla, bir dağın kaburgasından yaratıldın sen._
