@@ -6,17 +6,17 @@ heading: hal-i cünunum
 
 **6 April 2020 - 22:15**
 
-_zaman içinde bulunduğumuz an mıdır?
-insan var olmak istediği anda mıdır?
+_zaman içinde bulunduğumuz an mıdır?_
+_insan var olmak istediği anda mıdır?_
 
-istikbaldeki yıllar ile maziyi tahavvül mümkünse,
-kabul eden aşık zarar da mıdır?
+_istikbaldeki yıllar ile maziyi tahavvül mümkünse,_
+_kabul eden aşık zarar da mıdır?_
 
-bir Leylânın Mecnûnuyam cânân ilinin canıdır,
-bir dilberin meftunuyam bu can anın kurbânıdır.
+_bir Leylânın Mecnûnuyam cânân ilinin canıdır,_
+_bir dilberin meftunuyam bu can anın kurbânıdır._
 
-yürü, ey seyyah-ı avare yürü,
-koymasın geçmiş gelecekten._
+_yürü, ey seyyah-ı avare yürü,_
+_koymasın geçmiş gelecekten._
 
 ~ a.akkus
 
