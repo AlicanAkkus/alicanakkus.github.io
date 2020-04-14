@@ -7,6 +7,7 @@ heading: hal-i cünunum
 **14 April 2020 - 22:50**
 
 _ben birini çok sevdim mi, adını kimseye söyleyemem._
+
 _bir parçasını başkasına vermek gibi gelir bana._
 
 ~ o.wilde
