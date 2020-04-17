@@ -6,9 +6,9 @@ heading: hal-i cünunum
 
 **18 April 2020 - 00:40**
 
-_bir kez öpüşebilseydik, dünyayı solduracaktık._
+_ben hâlâ herşeyi sana alatacakmış gibi biriktiriyorum._
 
-~ i.özel
+~ i.berk
 
 **14 April 2020 - 22:50**
 
