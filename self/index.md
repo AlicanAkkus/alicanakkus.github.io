@@ -4,6 +4,12 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**18 April 2020 - 00:40**
+
+_bir kez öpüşebilseydik, dünyayı solduracaktık._
+
+~ i.özel
+
 **14 April 2020 - 22:50**
 
 _ben birini çok sevdim mi, adını kimseye söyleyemem._
