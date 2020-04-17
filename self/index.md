@@ -6,7 +6,7 @@ heading: hal-i cünunum
 
 **18 April 2020 - 00:40**
 
-_ben hâlâ herşeyi sana alatacakmış gibi biriktiriyorum._
+_ben hâlâ herşeyi sana anlatacakmış gibi biriktiriyorum._
 
 ~ i.berk
 
