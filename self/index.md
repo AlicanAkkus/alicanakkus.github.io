@@ -4,12 +4,6 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
-**18 April 2020 - 00:40**
-
-_ben hâlâ herşeyi sana anlatacakmış gibi biriktiriyorum._
-
-~ i.berk
-
 **14 April 2020 - 22:50**
 
 _ben birini çok sevdim mi, adını kimseye söyleyemem._
