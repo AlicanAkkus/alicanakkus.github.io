@@ -4,6 +4,97 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**24 April 2020 - 04:00**
+
+_güzel olan_
+_her günü seninle tekrar tekrar yaşamak_
+_erimek yarını olmayan zamanlarda_
+_durdurmak bir yerde bütün saatleri_
+_bütün kuralları kırıp parçalamak_
+_sonra varmak o yerlere_
+_mevsimlere dur demek_
+_kar yağarken çiçek açtırmak ağaçlara_
+_güneşi bir akşam saatinde tutup bırakmamak_
+_sonra doldurmak ay ışığını kadehlere_
+_delicesine içmek_
+_ve unutabilmek her şeyi ansızın_
+_sevmek seni en yücesiyle sevgilerin_
+_birlikte geçmiş, gelecek bütün çağları aşmak_
+_güzel olan_
+_sevmek seni Tanrılar gibi_
+_seninle Tanrılaşmak..._
+
+_bir gün bu akan sele dur diyeceğim, göreceksin_
+_ne bu şehir kalacak_
+_ne bu duygusuz sürü_
+_bu korkunç kalabalık_
+_her vapur seni getirecek bana_
+_bütün istasyonlarda seni bekleyeceğim_
+_kapılar sana açılacak_
+_senin için söylenecek şarkılar_
+_şiirler senin için yazılacak_
+_her evde bir resmin_
+_her meydanda bir heykelin olacak_
+_ve sen kimi gün bir rüzgar gibi_
+_kimi gün denizler gibi, bulutlar gibi_
+_kopup ötelerden, ötelerden_
+_yalnız bana geleceksin_
+_bir gün bu akan sele dur diyeceğim göreceksin._
+
+_ben eskimeyen tek güzelliği sende gördüm_
+_sende buldum erişilmez hazları_
+_yanında sıyrıldım korkulardan, yalanlardan_
+_duyguların en ölmezini sende duydum_
+_susuzluğum dudaklarında dindi_
+_yalnızlığım ellerinde_
+_çoğu gün unuttum açlığımı_
+_sende doydum.._
+
+_i̇lk defa seninle bütünlendim, anlıyor musun_
+_anladım yaşadığımı her nefes alışta_
+_seninle geçtim bütün zamanlardan_
+_seninle var oldum_
+_eridim seninle bir sonsuz çalkanışta._
+
+_boynunda bir yer vardır, ben bilirim_
+_ne zaman oradan öpsem,_
+_değişir gözlerinin rengi_
+_yanar dudakların, terler avuçların_
+_dökülür kapkara aydınlık gibi_
+_omuzlarına saçların_
+_gitgide artar kalbinin vuruşları_
+_bir musiki halinde dünyamı doldurur_
+_ansızın bütün sesler kesilir_
+_zaman durur_
+_bir baş dönmesi başlar o en yükseklerde_
+_her gün seninle yeniden var oluruz_
+_eriyip kaybolduğumuz yerde..._
+
+_sesini duymadığım gün_
+_yaşanmiş değil_
+_açan çiçek değil_
+_öten kuş değil_
+_yüzünü görmediğim gün_
+_i̇çimde yıldızlar sönük_
+_güneşler güneş değil_
+_seni sevmediğim gün_
+_seni anmadığım gün_
+_olacak iş değil.._
+
+_her günüm seninle geçsin_
+_o güneşe en yakın_
+_kimsenin varamayacağı bir dağ başında_
+_uçsuz bucaksız uzak denizlerde_
+_i̇nsan ayağı değmemiş ormanlarda_
+_uzaklarda, en uzaklarda_
+_o gemilerin uğramadığı limanlarda_
+_işığım ol, alınyazım ol benim_
+_vatanım ol, evim ol_
+_yeter ki bir ömür boyu benim ol_
+_her günüm seninle geçsin.._
+
+~ ü.y.oğuzcan
+
 **14 April 2020 - 22:50**
 
 _ben birini çok sevdim mi, adını kimseye söyleyemem._
