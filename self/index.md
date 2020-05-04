@@ -4,6 +4,15 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**04 May 2020 - 17:45**
+
+_bir insanın diğer bir insanı hemen hemen hiçbir şey yapmadan bu kadar mesut etmesi nasıl mümkün olabiliyordu?_
+_ve ben bu anda başka hiçbir şey istemiyordum, dünyanın en zengin adamıydım.._
+
+~ s.ali
+
+---
+
 **24 April 2020 - 04:00**
 
 
