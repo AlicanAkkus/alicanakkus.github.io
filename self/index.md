@@ -4,6 +4,14 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**11 May 2020 - 00:20**
+
+_daha iyi bir insan olmamı sağlayan en büyük nedenimsin._
+
+~ a.akkus
+
+---
+
 **04 May 2020 - 17:45**
 
 _bir insanın diğer bir insanı hemen hemen hiçbir şey yapmadan bu kadar mesut etmesi nasıl mümkün olabiliyordu?_
