@@ -4,6 +4,14 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**5 June 2020 - 01:20**
+
+_aylar sonra ilk defa gözlerim bir işe yarayacak seni görerek._
+
+~ f.kafka
+
+---
+
 **11 May 2020 - 00:20**
 
 _daha iyi bir insan olmamı sağlayan en büyük nedenimsin._
