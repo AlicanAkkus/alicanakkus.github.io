@@ -7,21 +7,34 @@ heading: hal-i cünunum
 **8 July 2020 - 09:15**
 
 _hep böyle çocuksu mu bakar senin gözlerin?_
+
 _hep böyle içinde uzak bir ışık mı yanar?_
+
 _bakışlarında beni dinlendiren bir şey var;_
+
 _kıyısındaymış gibi en sakin denizlerin..._
 
+
 _bir yelkenliyim şimdi ben senin limanında_
+
 _fırtınalardan geldim sende dinleniyorum._
+
 _bu huzur, bu sessizlik hiç bitmesin diyorum;_
+
 _en eşsiz dakikalar sürsün senin yanında..._
 
+
 _hiç yumma gözlerini, ışığın eksilmesin,_
+
 _gündüzüm aydınlığım, ipek böceğim benim!_
+
 _güz bahçemde açılmış o son çiçeğim benim!_
 
+
 _yorgun kalbim seninle elem nedir bilmesin;_
+
 _ayırma gözlerimden çocuksu gözlerini,_
+
 _o sakin o yalansız, o kuytu gözlerini._
 
 ~ ü.y oğuzcan
