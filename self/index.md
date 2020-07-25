@@ -4,6 +4,15 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**25 July 2020 - 20:45**
+
+_cennet bulmuş gibi bu sarayın içinde_
+
+_ellerin saçlarımda ve başım dizinde_
+
+~ c.s.tarancı
+
+
 **8 July 2020 - 09:15**
 
 _hep böyle çocuksu mu bakar senin gözlerin?_
