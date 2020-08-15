@@ -4,6 +4,27 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**16 August 2020 - 01:35**
+
+_kalbim bir çiçektir, gündüzler ölgün;_
+
+_gelin, gelin, onu açın geceler!_
+
+_beni yâdelermiş gibi, bütün gün_
+
+_ötün kulağımda, çın, çın, geceler!_
+
+
+_geceler çekmeyin benimçin hüzün,_
+
+_gelin siz, ruhumu tenimden süzün;_
+
+_bırakın nâşımı yerde gündüzün,_
+
+_gölgemi alın da kaçın geceler!_
+
+~ g.ş
+
 **25 July 2020 - 20:45**
 
 _cennet bulmuş gibi bu sarayın içinde_
