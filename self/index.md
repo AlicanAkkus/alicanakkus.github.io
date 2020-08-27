@@ -4,6 +4,18 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**27 August 2020 - 20:55**
+
+_denizin ortasında büyükçe bir adadayım_
+
+_gencecik yaşımda geçmişin tasasındayım_
+
+_duvarları taştan odada kendimle savaştayım_
+
+_yüzümü solduranları öldürdüm, yastayım._
+
+~ a.a
+
 **16 August 2020 - 01:35**
 
 _kalbim bir çiçektir, gündüzler ölgün;_
