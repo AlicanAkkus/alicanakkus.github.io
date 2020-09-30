@@ -4,6 +4,18 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**30 Semptember 2020 - 22:55**
+
+_oysa ki sen aradığım, bulduğumsun benim_
+
+_oysa ki bu en güzeli kavuşmaların_
+
+_bakma şimdi böyle kahırlı olduğuma_
+
+_en mutlu şiirleri söyleyeceğim sana yarın_
+
+~ ü.y.oğuzcan
+
 **27 August 2020 - 20:55**
 
 _denizin ortasında büyükçe bir adadayım_
