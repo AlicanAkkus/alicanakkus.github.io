@@ -4,6 +4,12 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**17 October 2020 - 23:02**
+
+_hep seni düsünmek icin kimsenin yüzüne bakmadım._
+
+~ orhan veli 
+
 **30 Semptember 2020 - 22:55**
 
 _oysa ki sen aradığım, bulduğumsun benim_
