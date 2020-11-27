@@ -4,6 +4,41 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**27 November 2020 - 21:30**
+
+_sen bende neleri öpüyorsun bir bilsen_
+
+_herkesin perde perde çekildiği bir akşam_
+
+_siyah bir su gibi yollara akan_
+
+_yalnızlığı öpüyorsun._
+
+_ağzında eriklerin aceleci tadı_
+
+_elleri bulut, gözleri ot bürümüş ekin tarlası_
+
+_bir çocuğun düşlerine inen tokadı öpüyorsun._
+
+_yağmur her zaman gökkuşağını getirmiyor_
+
+_aralık kapılarda bekleyişin çarpıntısı_
+
+_bir kadının eksildikçe ömrüme eklenen_
+
+_uzun gecelerini, solgun gövdesini öpüyorsun._
+
+_Uzak dağ köylerine vuran ay ışığı_
+
+_sen bende, gözlerinin anne ışığıyla_
+
+_bir solgunluktan doğan_
+
+_kocaman bir çocuğu öpüyorsun._
+
+
+~ şükrü erbaş 
+
 **17 October 2020 - 23:02**
 
 _hep seni düsünmek icin kimsenin yüzüne bakmadım._
