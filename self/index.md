@@ -4,6 +4,38 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**5 December 2020 - 12:30**
+
+_yine bulutlar seyrini unutmuş_
+        
+_semaya baksana matem mi tutmuş?_
+        
+_gökte ne ay var ne de bir yıldız_
+        
+_her taraf karanlık ve de ıssız_
+        
+
+_sen yoksun diye, sen yoksun diye_
+        
+_her gün ağlıyorum sen yoksun diye_
+        
+
+_esen rüzgarın kesilmiş nefesi_
+        
+_coşkun dalgaların çıkmıyor sesi_
+        
+_bu ne sessizlik, bu ne durgunluk_
+        
+_doğan güneşe bak rengi soluk_
+        
+
+_sen yoksun diye, sen yoksun diye_
+        
+_her gün ağlıyorum sen yoksun diye_
+
+~ fatih erkoç
+
+
 **27 November 2020 - 21:30**
 
 _sen bende neleri öpüyorsun bir bilsen_
