@@ -4,6 +4,48 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**16 January 2021 - 24:00**
+
+_odama ayak bastın, 40 yıllık beton çayır çimen şimdi_
+
+~ nazım hikmet
+
+
+**27 November 2020 - 21:30**
+
+_sen bende neleri öpüyorsun bir bilsen_
+
+_herkesin perde perde çekildiği bir akşam_
+
+_siyah bir su gibi yollara akan_
+
+_yalnızlığı öpüyorsun._
+
+_ağzında eriklerin aceleci tadı_
+
+_elleri bulut, gözleri ot bürümüş ekin tarlası_
+
+_bir çocuğun düşlerine inen tokadı öpüyorsun._
+
+_yağmur her zaman gökkuşağını getirmiyor_
+
+_aralık kapılarda bekleyişin çarpıntısı_
+
+_bir kadının eksildikçe ömrüme eklenen_
+
+_uzun gecelerini, solgun gövdesini öpüyorsun._
+
+_Uzak dağ köylerine vuran ay ışığı_
+
+_sen bende, gözlerinin anne ışığıyla_
+
+_bir solgunluktan doğan_
+
+_kocaman bir çocuğu öpüyorsun._
+
+
+~ şükrü erbaş 
+
 **5 December 2020 - 12:30**
 
 _yine bulutlar seyrini unutmuş_
