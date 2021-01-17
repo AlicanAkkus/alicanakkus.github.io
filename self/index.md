@@ -4,7 +4,7 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
-**16 January 2021 - 24:00**
+**16 January 2021 - 00:00**
 
 _odama ayak bastın, 40 yıllık beton çayır çimen şimdi_
 
