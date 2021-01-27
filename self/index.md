@@ -4,6 +4,12 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**27 January 2021 - 22:22**
+
+_hoş sesinle bana bağır, hafiflesin yüküm ağır_
+
+~ kafkef
+
 **16 January 2021 - 00:00**
 
 _odama ayak bastın, 40 yıllık beton çayır çimen şimdi_
@@ -1696,7 +1702,7 @@ _"beni görmedikleri halde bana iman eden kardeşlerimi görmeyi çok isterdim."
 ---
 **17 ekim 2014**
 
-_“eğer siz, benim bildiklerimi bilseydiniz, mutlaka az güler, çok ağlardınız.”_
+_“eğer siz, benim bildiklerimi bilseydiniz, mutlaka az güler, çok ağlardınız.”_
 
 ~ hadis-i şerif
 
