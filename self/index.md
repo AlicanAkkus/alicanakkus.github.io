@@ -4,6 +4,16 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+
+**13 February 2021 - 00:40**
+
+_demedim dilimin ucuna gelen her ne ise_
+_vay ki gençtim?_
+_ölümle paslanmış buldum sesimi..._
+
+~ ismet özel / münacaat
+
+
 **27 January 2021 - 22:22**
 
 _hoş sesinle bana bağır, hafiflesin yüküm ağır_
