@@ -4,6 +4,20 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**07 May 2021 - 01:30**
+
+_gülüp eğlenmeliydim,_
+
+_su gibi akmalıydım şu yaşımda,_
+
+_oysa ağır ağır düşünüyorum geleceği._
+
+_kaç gecem daha böyle huzursuz geçecek?_
+
+_beni felaketler değil düşünmek mahvedecek._
+
+~ m.a.ersan
+
 
 **13 February 2021 - 00:40**
 
