@@ -4,6 +4,17 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+
+
+**30 May 2021 - 17:30**
+
+_gözlerine hastalıklı bir güzellik geldi_
+
+_şimdi acı çeken yanınla bile alay ediyorsun_
+
+~ c.ersoz
+
+
 **07 May 2021 - 01:30**
 
 _gülüp eğlenmeliydim,_
