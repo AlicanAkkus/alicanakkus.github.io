@@ -4,6 +4,11 @@ title: hal-i cünunum
 heading: hal-i cünunum
 ---
 
+**16 June 2021 - 22:20**
+
+_gönlümü nasıl köle ettin bunca kusura?_
+
+~ shakespeare
 
 
 **30 May 2021 - 17:30**
